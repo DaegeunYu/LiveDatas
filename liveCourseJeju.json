@@ -1,0 +1,3782 @@
+{
+  "liveCourseData":[
+    {
+      "courseNo":1,
+      "courseName":"스노쿨링",
+      "courseTitle":"새로운 환경에 놓였을 때\n빠르게 적응하는 분이라면",
+      "courseContents":"수영도 좋지만, 스노클링 장비를 장착하고\n물 속으로 첨벙! 들어갈 때의 짜릿함이 있죠.\n사면이 바다로 둘러쌓여있는 제주에서\n물고기와 교류하는 시간을 가져보세요.",
+      "liveVideoPlace": [
+        {
+          "placeNo":1,
+          "placeName":"판포포구",
+          "placeContents":"방파제가 있어 바다가 잔잔해 안전하게 수영을 하며\n물 속 신비로운 장면을 볼 수 있는 장소",
+          "videoContents":"노을 명소로 유명한 판포포구\n예쁜 카페에서 시원한 커피 한 잔 하세요.",
+          "courseNoList":[1, 3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":1,
+              "courseNoList":[1, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/98.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-18.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":2,
+              "courseNoList":[1, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/99.png",
+              "videoPath":"https://www.youtube.com/embed/YTV_4QHPfyc?controls=0"
+            }
+          ]
+        },
+        {
+          "placeNo":2,
+          "placeName":"협재해수욕장",
+          "placeContents":"수심이 낮은 곳이 많아 아이들과 함께\n물고기, 해초 등을 구경할 수 있는 곳",
+          "videoContents":"수심이 낮은 곳이 많아 아이들과 함께\n물고기, 해초 등을 구경할 수 있는 곳",
+          "courseNoList":[1, 2, 3, 9],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":3,
+              "courseNoList":[1, 2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/65.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-17.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":4,
+              "courseNoList":[1, 2, 3, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/66.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/fddd814f-7629-4cd3-929b-944b7fe2f8e0/16_hyeopjaehaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":5,
+              "courseNoList":[1, 2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/67.png",
+              "videoPath":"https://www.youtube.com/embed/PupRD0GcDLs?controls=0"
+            }
+          ]
+        },
+        {
+          "placeNo":3,
+          "placeName":"한담해수욕장",
+          "placeContents":"물때에 맞춰서 들어가면 깨끗한 시야를 확보할 수 있어\n스노클링의 매력에 푹~ 빠지게 만드는 곳",
+          "videoContents":"태양에 뜨겁게 달궈진 모래를 이용해서\n따끈한 모래찜질을 하기 좋은 장소",
+          "courseNoList":[1, 3],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":6,
+              "courseNoList":[1, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/115.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/09bca96b-ef86-46ef-9ad3-1a17fb0f81db/14_handamhaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":7,
+              "courseNoList":[1, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/4_handamhaebyeon/handamhaebyeon1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9dc00401-3ccc-4162-9762-d937d2c56278/handamhaebyeon1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":8,
+              "courseNoList":[1, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/4_handamhaebyeon/handamhaebyeon2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b6418392-8d7e-47e1-9b63-955ac50d9458/handamhaebyeon2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":9,
+              "courseNoList":[1, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/4_handamhaebyeon/handamhaebyeon3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/307c5bfa-2dc5-4eeb-b681-b84382cd8d77/handamhaebyeon3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":10,
+              "courseNoList":[1, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/4_handamhaebyeon/handamhaebyeon4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/427c2577-c370-4e16-94d1-f5e1db9c3a05/handamhaebyeon4.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":4,
+          "placeName":"함덕해수욕장",
+          "placeContents":"함덕해수욕장 옆 서우봉 쪽으로 가면\n돌 틈 사이로 헤엄치는 물고기를 만날 수 있어요.",
+          "videoContents":"부드러운 해안 모래에서 이어지는 현무암 바위의\n조합이 매력적인 곳",
+          "courseNoList":[1, 2, 3, 7, 9],
+          "category":[11, 12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":11,
+              "courseNoList":[1, 2, 3, 9],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/7.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/7dfb3976-87e1-412a-8039-01824b18da16/15_hamdeokhaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":12,
+              "courseNoList":[1, 2, 3],
+              "category":[11, 12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/8.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-19.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":13,
+              "courseNoList":[1, 2, 3, 7],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/11_hamdeokhaesuyokjang/hamdeokhaesuyokjang1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6bd29bc1-4643-4d18-9c8d-3699347a110b/hamdeokhaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":14,
+              "courseNoList":[1, 2, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/11_hamdeokhaesuyokjang/hamdeokhaesuyokjang2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/c6f9020f-2096-4125-bd42-37b32dffea3b/hamdeokhaesuyokjang2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":15,
+              "courseNoList":[1, 2, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/11_hamdeokhaesuyokjang/hamdeokhaesuyokjang3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9ba2ea4d-df28-4d75-ba5a-72f25be67afb/hamdeokhaesuyokjang3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":5,
+          "placeName":"김녕해수욕장",
+          "placeContents":"에메랄드 빛 바다에 풍덩 들어가\n뜨거운 열기를 식히며 더위를 극복해보세요.",
+          "videoContents":"하얀 모래로 잔잔하게 흘러오는\n흰색 파도와 세차게 돌아가는 풍차가 있는 곳",
+          "courseNoList":[1, 3, 9],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":16,
+              "courseNoList":[1, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/59.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f9f213b3-7141-4a0e-bf32-c6bdb0fb2eeb/05_gimnyeonghaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":17,
+              "courseNoList":[1, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/60.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/5cf104b5-c68b-4e06-8d10-f96d83de532f/33_gimnyeongripoguhaeandoro.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":6,
+          "placeName":"월정리해수욕장",
+          "placeContents":"암초가 많이 있는 곳을 찾아 들어가면\n다양한 종류의 물고기를 볼 수 있답니다.",
+          "videoContents":"철썩이는 파도에 발을 담그면\n짜릿한 시원함이 머리까지 올라와요.",
+          "courseNoList":[1, 2, 3, 5, 9],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":19,
+              "courseNoList":[1, 2, 3, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/62.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6ce17591-d929-4395-82a1-effeafac0b17/09_woljeongrihaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":20,
+              "courseNoList":[1, 2, 3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/13_woljeongrihaesuyokjang/woljeongrihaesuyokjang1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3fb06efe-9ebc-47c1-8e89-737e309f2558/woljeongrihaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":21,
+              "courseNoList":[1, 2, 3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/13_woljeongrihaesuyokjang/woljeongrihaesuyokjang2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f3f0b508-2473-459e-a655-68c587c69770/woljeongrihaesuyokjang2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":22,
+              "courseNoList":[1, 2, 3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/13_woljeongrihaesuyokjang/woljeongrihaesuyokjang3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9ce649bf-a75e-4df6-a182-795279cefd4d/woljeongrihaesuyokjang3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":7,
+          "placeName":"황우지해안",
+          "placeContents":"아름다운 천연 풀장인 선녀탕 스노클링\n주변 경관과 깨끗한 물을 두 배로 즐길 수 있어요.",
+          "videoContents":"바위 해변에서 즐기는 수영\n자연스럽게 형성된 천연 수영장에 다이빙 해보아요.",
+          "courseNoList":[1, 3, 7],
+          "category":[12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":23,
+              "courseNoList":[1, 3, 7],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/20_hwangujihaean/hwangujihaean1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a8210aba-cda0-43dd-8eb4-5e35c677b122/hwangujihaean1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":24,
+              "courseNoList":[1, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/20_hwangujihaean/hwangujihaean2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/af588ca3-093f-4cc5-bbea-ca55c92f082d/hwangujihaean2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":25,
+              "courseNoList":[1, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/20_hwangujihaean/hwangujihaean3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f08a75fc-b56c-474e-93f4-366a37384e83/hwangujihaean3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":26,
+              "courseNoList":[1, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/20_hwangujihaean/hwangujihaean4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/ed3e21b8-b69c-4225-a111-fc6c1b4e427f/hwangujihaean4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":27,
+              "courseNoList":[1, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/20_hwangujihaean/hwangujihaean5.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f74bcf38-ddde-4175-8193-c5af1478f6b1/hwangujihaean5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":8,
+          "placeName":"법환포구",
+          "placeContents":"물이 빠지는 시간대에 맞춰서 방문하면\n작은 자연 수영장이 만들어지는 곳",
+          "videoContents":"물이 빠지는 시간대에 맞춰서 방문하면\n작은 자연 수영장이 만들어지는 곳",
+          "courseNoList":[1],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":28,
+              "courseNoList":[1],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/74.png",
+              "videoPath":"http://59.8.86.15:1935/live/54.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":29,
+              "courseNoList":[1],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/75.png",
+              "videoPath":"http://59.8.86.15:1935/live/55.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":30,
+              "courseNoList":[1],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/76.png",
+              "videoPath":"https://www.youtube.com/embed/foDtkjUT55U?controls=0"
+            }
+          ]
+        },
+        {
+          "placeNo":9,
+          "placeName":"신도포구",
+          "placeContents":"작은 물고기들이 떼지어 다니는 곳\n스노클링 후 일몰을 보는 맛이 끝내줘요.",
+          "videoContents":"작은 물고기들이 떼지어 다니는 곳\n스노클링 후 일몰을 보는 맛이 끝내줘요.",
+          "courseNoList":[1],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":31,
+              "courseNoList":[1],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/103.png",
+              "videoPath":"http://211.34.191.215:1935/live/71.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":10,
+          "placeName":"태흥포구",
+          "placeContents":"탁 트인 바다와 조용한 마을이 매력적인 장소\n물이 맑아 스노클링 하기에 더 좋은 곳이 없죠.",
+          "videoContents":"탁 트인 바다와 조용한 마을이 매력적인 장소\n물이 맑아 스노클링 하기에 더 좋은 곳이 없죠.",
+          "courseNoList":[1],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":32,
+              "courseNoList":[1],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/104.png",
+              "videoPath":"http://211.34.191.215:1935/live/146.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":11,
+          "placeName":"보목포구",
+          "placeContents":"스노클링 초보자들이 가기 적절한 스팟!\n수천마리의 멸치 떼를 만날 수 있어요.",
+          "videoContents":"스노클링 초보자들이 가기 적절한 스팟!\n수천마리의 멸치 떼를 만날 수 있어요.",
+          "courseNoList":[1, 3, 9],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":33,
+              "courseNoList":[1, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/106.png",
+              "videoPath":"http://211.34.191.215:1935/live/152.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":34,
+              "courseNoList":[1, 3, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/107.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3d752b59-62cc-4393-ac64-40ebf43893e0/06_bomokpogu.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":12,
+          "placeName":"대포포구",
+          "placeContents":"해녀촌 건물 뒤쪽으로 가면 펼쳐지는 경관\n파도가 잔잔한 때를 골라 다이빙!",
+          "videoContents":"해녀촌 건물 뒤쪽으로 가면 펼쳐지는 경관\n파도가 잔잔한 때를 골라 다이빙!",
+          "courseNoList":[1],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":35,
+              "courseNoList":[1],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/64.png",
+              "videoPath":"http://211.34.191.215:1935/live/115.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":13,
+          "placeName":"추자도(상추자항 부근)",
+          "placeContents":"깨끗한 물이 특징인 추자도에서 즐기는 스노클링\n장비를 대여할 수 있어 가볍게 방문하기 좋아요.",
+          "videoContents":"깨끗한 물이 특징인 추자도에서 즐기는 스노클링\n장비를 대여할 수 있어 가볍게 방문하기 좋아요.",
+          "courseNoList":[1],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":36,
+              "courseNoList":[1],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/88.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi7/11-26.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":14,
+          "placeName":"추자도(묵리항)",
+          "placeContents":"낚시까지 즐길 수 있는 스노클링존\n흰 파도와 파란 바다가 어우러지는 곳이에요.",
+          "videoContents":"낚시까지 즐길 수 있는 스노클링존\n흰 파도와 파란 바다가 어우러지는 곳이에요.",
+          "courseNoList":[1],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":37,
+              "courseNoList":[1],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/89.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi7/11-27.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":15,
+          "placeName":"추자도(신양항)",
+          "placeContents":"뒤쪽으로 펼쳐져 있는 아름다운 추자도 풍경\n물 속과 밖, 두 곳의 매력에 흠뻑 적셔지는 곳",
+          "videoContents":"뒤쪽으로 펼쳐져 있는 아름다운 추자도 풍경\n물 속과 밖, 두 곳의 매력에 흠뻑 적셔지는 곳",
+          "courseNoList":[1],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":38,
+              "courseNoList":[1],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/86.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi7/11-28.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":16,
+          "placeName":"추자도(예초항)",
+          "placeContents":"해녀들이 헤엄치는 곳과 가까운 곳에 있는 예초항\n이 기회에 나도 해녀처럼 수영하는건 어떨까?",
+          "videoContents":"해녀들이 헤엄치는 곳과 가까운 곳에 있는 예초항\n이 기회에 나도 해녀처럼 수영하는건 어떨까?",
+          "courseNoList":[1],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":39,
+              "courseNoList":[1],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/87.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi7/11-29.stream/playlist.m3u8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":2,
+      "courseName":"서핑",
+      "courseTitle":"뜨거운 열정을 가지고 있는\n사람들을 위한 스포츠",
+      "courseContents":"한국 서핑의 역사가 시작된 제주\n섬 주변으로 사계절 내내 멋진 파도가 있어\n언제든 서핑보드를 가지고 출발할 수 있답니다.\n초보자들도 쉽게 배울 수 있어 더 재미있는 레저!",
+      "liveVideoPlace": [
+        {
+          "placeNo":2,
+          "placeName":"협재해수욕장",
+          "placeContents":"에메랄드 색이 아름다운 바다에서 잔잔한 파도를 타며\n서핑을 즐길 수 있는 인기 포인트",
+          "videoContents":"수심이 낮은 곳이 많아 아이들과 함께\n물고기, 해초 등을 구경할 수 있는 곳",
+          "courseNoList":[1, 2, 3, 9],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":3,
+              "courseNoList":[1, 2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/65.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-17.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":4,
+              "courseNoList":[1, 2, 3, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/66.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/fddd814f-7629-4cd3-929b-944b7fe2f8e0/16_hyeopjaehaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":5,
+              "courseNoList":[1, 2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/67.png",
+              "videoPath":"https://www.youtube.com/embed/PupRD0GcDLs?controls=0"
+            }
+          ]
+        },{
+          "placeNo":17,
+          "placeName":"중문색달해수욕장",
+          "placeContents":"다양한 파도를 만날 수 있는 중문색달해수욕장\n뜨거운 여름을 시원하게 적시기 좋은 장소",
+          "videoContents":"다양한 파도를 만날 수 있는 중문색달해수욕장\n뜨거운 여름을 시원하게 적시기 좋은 장소",
+          "courseNoList":[2, 3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":40,
+              "courseNoList":[2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/77.png",
+              "videoPath":"http://59.8.86.15:1935/live/59.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":41,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/24_jungmunsaekdalhaesuyokjang/jungmunsaekdalhaesuyokjang1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1a15ee85-58a8-46ad-adac-0bdee483c265/jungmunsaekdalhaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":42,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/24_jungmunsaekdalhaesuyokjang/jungmunsaekdalhaesuyokjang2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/cdee743c-2553-45d7-b136-f3678683a695/jungmunsaekdalhaesuyokjang2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":43,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/24_jungmunsaekdalhaesuyokjang/jungmunsaekdalhaesuyokjang3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/e85f4852-23e7-43a9-8fca-77a340d4ae41/jungmunsaekdalhaesuyokjang3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":44,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/24_jungmunsaekdalhaesuyokjang/jungmunsaekdalhaesuyokjang4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a9d534f9-bcb1-449b-ac57-b725beb61506/jungmunsaekdalhaesuyokjang4.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":6,
+          "placeName":"월정리해수욕장",
+          "placeContents":"제주 동쪽에 위치한 해변 중에 가장 핫한 장소이죠.\n열정적으로 파도를 탈 수 있는 스팟",
+          "videoContents":"철썩이는 파도에 발을 담그면\n짜릿한 시원함이 머리까지 올라와요.",
+          "courseNoList":[1, 2, 3, 5, 9],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":19,
+              "courseNoList":[1, 2, 3, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/62.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6ce17591-d929-4395-82a1-effeafac0b17/09_woljeongrihaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":20,
+              "courseNoList":[1, 2, 3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/13_woljeongrihaesuyokjang/woljeongrihaesuyokjang1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3fb06efe-9ebc-47c1-8e89-737e309f2558/woljeongrihaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":21,
+              "courseNoList":[1, 2, 3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/13_woljeongrihaesuyokjang/woljeongrihaesuyokjang2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f3f0b508-2473-459e-a655-68c587c69770/woljeongrihaesuyokjang2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":22,
+              "courseNoList":[1, 2, 3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/13_woljeongrihaesuyokjang/woljeongrihaesuyokjang3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9ce649bf-a75e-4df6-a182-795279cefd4d/woljeongrihaesuyokjang3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":18,
+          "placeName":"곽지해수욕장",
+          "placeContents":"서핑을 처음 해보는 초보 분들이 타기 적절한\n잔잔한 파도가 항상 존재하는 곳",
+          "videoContents":"서핑을 처음 해보는 초보 분들이 타기 적절한\n잔잔한 파도가 항상 존재하는 곳",
+          "courseNoList":[2, 3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":45,
+              "courseNoList":[2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/91.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-16.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":46,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/92.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0164ca84-ec86-4c38-a746-cfd5081c5202/34_gwakjihaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":47,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/93.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/70015057-2085-4764-bae9-adf1d4b9393e/04_gwakjihaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":48,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/94.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f1728125-3a06-4ba2-8b43-a9ece5127aaa/12_gwakjihaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":19,
+          "placeName":"이호테우해수욕장",
+          "placeContents":"제주 공항에서 가까운 곳에 위치한만큼\n누구보다 빠르게 달려가 바다로 다이빙하기 좋은 해변",
+          "videoContents":"제주 공항에서 가까운 곳에 위치한만큼\n누구보다 빠르게 달려가 바다로 다이빙하기 좋은 해변",
+          "courseNoList":[2, 3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":49,
+              "courseNoList":[2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/95.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi7/11-30T.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":20,
+          "placeName":"삼양해수욕장",
+          "placeContents":"검은 모래가 특징인 이색적 공간\n서핑 후 뜨거운 모래에서 찜질까지? So good~",
+          "videoContents":"검은 모래가 특징인 이색적 공간\n서핑 후 뜨거운 모래에서 찜질까지? So good~",
+          "courseNoList":[2, 3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":50,
+              "courseNoList":[2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/90.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-14.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":4,
+          "placeName":"함덕해수욕장",
+          "placeContents":"가을, 겨울에 좋은 파도가 오는 해수욕장\n해변이 넓고 수심이 얕은 곳이 많아 초보에게 적합해요.",
+          "videoContents":"부드러운 해안 모래에서 이어지는 현무암 바위의\n조합이 매력적인 곳",
+          "courseNoList":[1, 2, 3, 7, 9],
+          "category":[11, 12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":11,
+              "courseNoList":[1, 2, 3, 9],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/7.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/7dfb3976-87e1-412a-8039-01824b18da16/15_hamdeokhaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":12,
+              "courseNoList":[1, 2, 3],
+              "category":[11, 12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/8.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-19.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":13,
+              "courseNoList":[1, 2, 3, 7],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/11_hamdeokhaesuyokjang/hamdeokhaesuyokjang1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6bd29bc1-4643-4d18-9c8d-3699347a110b/hamdeokhaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":14,
+              "courseNoList":[1, 2, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/11_hamdeokhaesuyokjang/hamdeokhaesuyokjang2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/c6f9020f-2096-4125-bd42-37b32dffea3b/hamdeokhaesuyokjang2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":15,
+              "courseNoList":[1, 2, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/11_hamdeokhaesuyokjang/hamdeokhaesuyokjang3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9ba2ea4d-df28-4d75-ba5a-72f25be67afb/hamdeokhaesuyokjang3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":21,
+          "placeName":"사계해안",
+          "placeContents":"가족, 연인과 한가로이 서핑을 즐길 수 있는 곳\n아담한 해변을 독차지하는 느낌이 한가득",
+          "videoContents":"우리나라 가장 남쪽에 위치한 해안으로\n모래가 퇴적되어 만들어진 지형이에요.",
+          "courseNoList":[2, 3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":51,
+              "courseNoList":[2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/58.png",
+              "videoPath":"https://www.youtube.com/embed/VJUUwNyeIj0?controls=0"
+            },
+            {
+              "videoNo":52,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/30_sagyehaean/sagyehaean1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/8b77b142-1eca-4a54-9616-fbcc2dea7499/sagyehaean1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":53,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/30_sagyehaean/sagyehaean2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/572e5eb2-7803-4210-862f-2e1a672bb21d/sagyehaean2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":22,
+          "placeName":"표선해수욕장",
+          "placeContents":"여름에 제대로 된 파도를 만날 수 있는 스팟\n큰 파도와 낮은 파도가 번갈아오는 재미가 있어요.",
+          "videoContents":"여름에 제대로 된 파도를 만날 수 있는 스팟\n큰 파도와 낮은 파도가 번갈아오는 재미가 있어요.",
+          "courseNoList":[2],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":54,
+              "courseNoList":[2],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/35.png",
+              "videoPath":"https://www.youtube.com/embed/E6FgxNoGn7o?controls=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":3,
+      "courseName":"해수욕장",
+      "courseTitle":"여유로운 한 때를 즐기는\n유유자적한 성향의 당신",
+      "courseContents":"뜨거운 모래사장을 가로질러 물 속으로\n첨벙 뛰어들면 뼛속까지 시원함이 가득해져요.\n머리부터 발끝까지 짜릿한 온도를 경험한다면\n제주의 바다를 사랑하게 될 거에요.",
+      "liveVideoPlace": [
+        {
+          "placeNo":18,
+          "placeName":"곽지해수욕장",
+          "placeContents":"넓은 백사장과 철썩이는 파도, 깨끗한 바다에서\n수영한 뒤 자연 용천수로 샤워하는 것까지 완벽!",
+          "videoContents":"서핑을 처음 해보는 초보 분들이 타기 적절한\n잔잔한 파도가 항상 존재하는 곳",
+          "courseNoList":[2, 3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":45,
+              "courseNoList":[2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/91.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-16.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":46,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/92.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0164ca84-ec86-4c38-a746-cfd5081c5202/34_gwakjihaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":47,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/93.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/70015057-2085-4764-bae9-adf1d4b9393e/04_gwakjihaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":48,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/94.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f1728125-3a06-4ba2-8b43-a9ece5127aaa/12_gwakjihaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":5,
+          "placeName":"김녕해수욕장",
+          "placeContents":"웨딩 촬영 장소로도 유명해진 곳으로\n노을질 때 더욱 아름다운 해변",
+          "videoContents":"하얀 모래로 잔잔하게 흘러오는\n흰색 파도와 세차게 돌아가는 풍차가 있는 곳",
+          "courseNoList":[1, 3, 9],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":18,
+              "courseNoList":[3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/61.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-20.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":11,
+          "placeName":"보목포구",
+          "placeContents":"뒤쪽으로 보이는 범섬을 배경 삼아 놀 수 있는 곳\n밀물에 맞춰 들어가면 수영하는 맛이 나지요.",
+          "videoContents":"스노클링 초보자들이 가기 적절한 스팟!\n수천마리의 멸치 떼를 만날 수 있어요.",
+          "courseNoList":[1, 3, 9],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":33,
+              "courseNoList":[1, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/106.png",
+              "videoPath":"http://211.34.191.215:1935/live/152.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":34,
+              "courseNoList":[1, 3, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/107.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3d752b59-62cc-4393-ac64-40ebf43893e0/06_bomokpogu.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":23,
+          "placeName":"쇠소깍",
+          "placeContents":"담수와 해수가 만나 깊은 웅덩이를 만들고\n주변 기암괴석과 소나무 숲이 그늘을 만들어줘요.",
+          "videoContents":"담수와 해수가 만나 깊은 웅덩이를 만들고\n주변 기암괴석과 소나무 숲이 그늘을 만들어줘요.",
+          "courseNoList":[3, 9],
+          "category":[11, 14, 15],
+          "placeVideoList":[
+            {
+              "videoNo":55,
+              "courseNoList":[3],
+              "category":[11, 15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/28.png",
+              "videoPath":"http://211.34.191.215:1935/live/41.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":56,
+              "courseNoList":[3, 9],
+              "category":[14, 15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/29.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/8ae5d76e-71f4-4735-a4f9-2e338b640e67/07_soesokkak.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":24,
+          "placeName":"신창해안",
+          "placeContents":"계절에 따라, 날씨에 따라 뷰가 바뀌어\n멍하니 바라보는 재미가 있는 해안",
+          "videoContents":"바람에 따라 움직이는 풍차들과\n길게 조성된 산책로는 여유를 즐기기 딱이에요.",
+          "courseNoList":[3, 7],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":57,
+              "courseNoList":[3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/71.png",
+              "videoPath":"http://59.8.86.15:1935/live/63.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":58,
+              "courseNoList":[3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/8_sinchanghaean/sinchanghaean1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/de13e2ed-0c8d-47c9-a65d-f1450f0dab01/sinchanghaean1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":59,
+              "courseNoList":[3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/8_sinchanghaean/sinchanghaean2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3871879a-b1da-4b77-9395-c007614c19ea/sinchanghaean2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":60,
+              "courseNoList":[3, 7],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/8_sinchanghaean/sinchanghaean3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/102a30b5-f533-4e34-a168-4f466b46db45/sinchanghaean3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":25,
+          "placeName":"자구리해안",
+          "placeContents":"이중섭 화백으로 인해 더욱 유명해진 자구리해안\n물놀이 외에 인생 사진 찍으러 가는 곳이랍니다.",
+          "videoContents":"이중섭 작가님이 제주에서 많은 시간을\n보낸 곳으로 알려진 슬프고 아름다운 장소",
+          "courseNoList":[3, 9],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":61,
+              "courseNoList":[3, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/52.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/8deb0c50-3512-49fc-8554-303a3bc0035d/10_jagurihaean.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":26,
+          "placeName":"정방폭포",
+          "placeContents":"햇빛이 폭포의 물줄기에 닿으면 은하수처럼\n반짝이는 장관을 펼치는 비밀스런 공간",
+          "videoContents":"햇빛이 폭포의 물줄기에 닿으면 은하수처럼\n반짝이는 장관을 펼치는 비밀스런 공간",
+          "courseNoList":[3, 9],
+          "category":[15],
+          "placeVideoList":[
+            {
+              "videoNo":62,
+              "courseNoList":[3, 9],
+              "category":[15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/116.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/7bc7e9fd-bb48-47c0-a236-ef878b2c7a7f/11_jeongbangpokpo.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":17,
+          "placeName":"중문색달해수욕장",
+          "placeContents":"넘실대는 파도에 몸을 맡겨보세요.\n하얀 파도가 몸을 간질이는 경험을 하게 될 거에요.",
+          "videoContents":"다양한 파도를 만날 수 있는 중문색달해수욕장\n뜨거운 여름을 시원하게 적시기 좋은 장소",
+          "courseNoList":[2, 3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":40,
+              "courseNoList":[2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/77.png",
+              "videoPath":"http://59.8.86.15:1935/live/59.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":41,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/24_jungmunsaekdalhaesuyokjang/jungmunsaekdalhaesuyokjang1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1a15ee85-58a8-46ad-adac-0bdee483c265/jungmunsaekdalhaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":42,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/24_jungmunsaekdalhaesuyokjang/jungmunsaekdalhaesuyokjang2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/cdee743c-2553-45d7-b136-f3678683a695/jungmunsaekdalhaesuyokjang2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":43,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/24_jungmunsaekdalhaesuyokjang/jungmunsaekdalhaesuyokjang3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/e85f4852-23e7-43a9-8fca-77a340d4ae41/jungmunsaekdalhaesuyokjang3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":44,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/24_jungmunsaekdalhaesuyokjang/jungmunsaekdalhaesuyokjang4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a9d534f9-bcb1-449b-ac57-b725beb61506/jungmunsaekdalhaesuyokjang4.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":27,
+          "placeName":"차귀도",
+          "placeContents":"제주도에 있는 무인도 라는 별명을 가지고 있는 곳\n깨끗한 물과 조우할 수 있어요.",
+          "videoContents":"제주도에 있는 무인도 라는 별명을 가지고 있는 곳\n깨끗한 물과 조우할 수 있어요.",
+          "courseNoList":[3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":63,
+              "courseNoList":[3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/68.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/d1cf31f4-f05c-476d-9ef9-6c1196b4f16a/13_chagwido.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":64,
+              "courseNoList":[3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/69.png",
+              "videoPath":"https://www.youtube.com/embed/LnqV_QCL168?controls=0"
+            }
+          ]
+        },
+        {
+          "placeNo":3,
+          "placeName":"한담해수욕장",
+          "placeContents":"태양에 뜨겁게 달궈진 모래를 이용해서\n따끈한 모래찜질을 하기 좋은 장소",
+          "videoContents":"태양에 뜨겁게 달궈진 모래를 이용해서\n따끈한 모래찜질을 하기 좋은 장소",
+          "courseNoList":[1, 3],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":6,
+              "courseNoList":[1, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/115.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/09bca96b-ef86-46ef-9ad3-1a17fb0f81db/14_handamhaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":7,
+              "courseNoList":[1, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/4_handamhaebyeon/handamhaebyeon1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9dc00401-3ccc-4162-9762-d937d2c56278/handamhaebyeon1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":8,
+              "courseNoList":[1, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/4_handamhaebyeon/handamhaebyeon2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b6418392-8d7e-47e1-9b63-955ac50d9458/handamhaebyeon2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":9,
+              "courseNoList":[1, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/4_handamhaebyeon/handamhaebyeon3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/307c5bfa-2dc5-4eeb-b681-b84382cd8d77/handamhaebyeon3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":10,
+              "courseNoList":[1, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/4_handamhaebyeon/handamhaebyeon4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/427c2577-c370-4e16-94d1-f5e1db9c3a05/handamhaebyeon4.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":4,
+          "placeName":"함덕해수욕장",
+          "placeContents":"낮에는 가벼운 산책과 물놀이를,\n밤에는 야경을 감상하기 좋은 보석같은 해변",
+          "videoContents":"부드러운 해안 모래에서 이어지는 현무암 바위의\n조합이 매력적인 곳",
+          "courseNoList":[1, 2, 3, 7, 9],
+          "category":[11, 12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":11,
+              "courseNoList":[1, 2, 3, 9],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/7.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/7dfb3976-87e1-412a-8039-01824b18da16/15_hamdeokhaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":12,
+              "courseNoList":[1, 2, 3],
+              "category":[11, 12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/8.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-19.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":13,
+              "courseNoList":[1, 2, 3, 7],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/11_hamdeokhaesuyokjang/hamdeokhaesuyokjang1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6bd29bc1-4643-4d18-9c8d-3699347a110b/hamdeokhaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":14,
+              "courseNoList":[1, 2, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/11_hamdeokhaesuyokjang/hamdeokhaesuyokjang2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/c6f9020f-2096-4125-bd42-37b32dffea3b/hamdeokhaesuyokjang2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":15,
+              "courseNoList":[1, 2, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/11_hamdeokhaesuyokjang/hamdeokhaesuyokjang3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9ba2ea4d-df28-4d75-ba5a-72f25be67afb/hamdeokhaesuyokjang3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":2,
+          "placeName":"협재해수욕장",
+          "placeContents":"파라솔 아래에 누워 여유로운 한 때를 보내며\n낮잠 한 숨 자는 황금같은 휴일을 보내보세요.",
+          "videoContents":"수심이 낮은 곳이 많아 아이들과 함께\n물고기, 해초 등을 구경할 수 있는 곳",
+          "courseNoList":[1, 2, 3, 9],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":3,
+              "courseNoList":[1, 2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/65.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-17.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":4,
+              "courseNoList":[1, 2, 3, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/66.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/fddd814f-7629-4cd3-929b-944b7fe2f8e0/16_hyeopjaehaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":5,
+              "courseNoList":[1, 2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/67.png",
+              "videoPath":"https://www.youtube.com/embed/PupRD0GcDLs?controls=0"
+            }
+          ]
+        },
+        {
+          "placeNo":28,
+          "placeName":"용두암",
+          "placeContents":"용두암 주변으로 해녀들이 물질하는 모습을\n볼 수있는 제주의 3대 해수욕장 중 하나",
+          "videoContents":"용두암 주변으로 해녀들이 물질하는 모습을\n볼 수있는 제주의 3대 해수욕장 중 하나",
+          "courseNoList":[3, 5],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":65,
+              "courseNoList":[3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/3_yongduam/yongduam1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/c5221d87-de70-4299-aa91-16f9814921db/yongduam1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":66,
+              "courseNoList":[3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/3_yongduam/yongduam2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/231f503f-4425-49a6-aa7c-fb515b0b72f1/yongduam2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":67,
+              "courseNoList":[3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/3_yongduam/yongduam3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/ec777eed-37b8-43e3-af5a-3f0483b41be0/yongduam3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":68,
+              "courseNoList":[3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/57.png",
+              "videoPath":"http://59.8.86.15:1935/live/51.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":29,
+          "placeName":"금능해수욕장",
+          "placeContents":"손가락 사이로 빠져나가는 모래와\n얕은 수심의 바닷물에 발을 담그는 재미가 있는 곳",
+          "videoContents":"손가락 사이로 빠져나가는 모래와\n얕은 수심의 바닷물에 발을 담그는 재미가 있는 곳",
+          "courseNoList":[3, 7],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":69,
+              "courseNoList":[3, 7],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/6_geumneunghaesuyokjang/geumneunghaesuyokjang1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/e41b3ca7-44a3-4515-a91e-6b0d7ac9c5ff/geumneunghaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":70,
+              "courseNoList":[3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/6_geumneunghaesuyokjang/geumneunghaesuyokjang2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f009614f-6a96-4809-9b1f-e8f98e8f67a8/geumneunghaesuyokjang2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":71,
+              "courseNoList":[3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/6_geumneunghaesuyokjang/geumneunghaesuyokjang2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b5d637b4-b45b-4635-ab60-e489b1c276e1/geumneunghaesuyokjang3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":30,
+          "placeName":"닭머르해안",
+          "placeContents":"닭이 흙을 파헤치고 안에 들어가 앉았다는\n이야기가 있는 닭머르해안에서 닭 머리를 찾아보세요.",
+          "videoContents":"아침에는 반짝거리는 바다를, 저녁엔 아름다운 일몰을,\n제주에 숨겨져 있는 보물같은 장소",
+          "courseNoList":[3, 7, 12],
+          "category":[12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":72,
+              "courseNoList":[3, 7, 12],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/10_talkmeoreuhaean/talkmeoreuhaean1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/411907ef-d1d2-4f09-9621-e3346df422ec/talkmeoreuhaean1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":73,
+              "courseNoList":[3, 12],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/10_talkmeoreuhaean/talkmeoreuhaean2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/256b5370-5ac5-437d-bd34-bcad195d6431/talkmeoreuhaean2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":74,
+              "courseNoList":[3, 12],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/10_talkmeoreuhaean/talkmeoreuhaean3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1ac94362-6a0b-4c69-a4b7-eb60774bddbb/talkmeoreuhaean3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":75,
+              "courseNoList":[3, 12],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/10_talkmeoreuhaean/talkmeoreuhaean4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9303d0f6-a619-4b1e-94aa-0cd16a9a310a/talkmeoreuhaean4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":76,
+              "courseNoList":[3, 12],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/10_talkmeoreuhaean/talkmeoreuhaean5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/7ae928c5-5875-4688-b9df-342a1bda58d9/talkmeoreuhaean5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":6,
+          "placeName":"월정리해수욕장",
+          "placeContents":"수심이 얕은 편으로 아이들과 함께 방문하기 좋아\n가족 단위 방문객들이 많이 찾는 장소예요.",
+          "videoContents":"철썩이는 파도에 발을 담그면\n짜릿한 시원함이 머리까지 올라와요.",
+          "courseNoList":[1, 2, 3, 5, 9],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":19,
+              "courseNoList":[1, 2, 3, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/62.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6ce17591-d929-4395-82a1-effeafac0b17/09_woljeongrihaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":20,
+              "courseNoList":[1, 2, 3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/13_woljeongrihaesuyokjang/woljeongrihaesuyokjang1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3fb06efe-9ebc-47c1-8e89-737e309f2558/woljeongrihaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":21,
+              "courseNoList":[1, 2, 3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/13_woljeongrihaesuyokjang/woljeongrihaesuyokjang2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f3f0b508-2473-459e-a655-68c587c69770/woljeongrihaesuyokjang2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":22,
+              "courseNoList":[1, 2, 3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/13_woljeongrihaesuyokjang/woljeongrihaesuyokjang3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9ce649bf-a75e-4df6-a182-795279cefd4d/woljeongrihaesuyokjang3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":31,
+          "placeName":"평대해변",
+          "placeContents":"파도가 치는 소리, 모래가 바스락거리는 소리 등\n백색소음으로 힐링하기 좋은 곳",
+          "videoContents":"파도가 치는 소리, 모래가 바스락거리는 소리 등\n백색소음으로 힐링하기 좋은 곳",
+          "courseNoList":[3, 5],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":77,
+              "courseNoList":[3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/110.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi7/11-22.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":78,
+              "courseNoList":[3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/14_pyeongdaehaebyeon/pyeongdaehaebyeon1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1116b961-1a7b-4915-81c7-326ef064d43b/pyeongdaehaebyeon1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":79,
+              "courseNoList":[3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/14_pyeongdaehaebyeon/pyeongdaehaebyeon2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/d7b3d073-f5ec-41ec-9b07-5f599cf31c6c/pyeongdaehaebyeon2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":32,
+          "placeName":"큰엉해안경승지",
+          "placeContents":"큰 바위가 해안을 집어 삼킬 듯 입을 크게 벌리는\n모양새의 언덕이 수려하게 자리잡은 장소",
+          "videoContents":"큰 바위가 해안을 집어 삼킬 듯 입을 크게 벌리는\n모양새의 언덕이 수려하게 자리잡은 장소",
+          "courseNoList":[3, 7],
+          "category":[12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":80,
+              "courseNoList":[3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/18_keuneonghaeangyeongseungji/keuneonghaeangyeongseungji1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/7fb5aed1-bd6a-4935-98c9-9055f62d663a/keuneonghaeangyeongseungji1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":81,
+              "courseNoList":[3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/18_keuneonghaeangyeongseungji/keuneonghaeangyeongseungji2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/022ced75-b0e2-4185-bb4d-0e6e696f1fee/keuneonghaeangyeongseungji2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":82,
+              "courseNoList":[3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/18_keuneonghaeangyeongseungji/keuneonghaeangyeongseungji3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/15208086-b1d1-4c7a-b6ef-f52084200127/keuneonghaeangyeongseungji3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":83,
+              "courseNoList":[3, 7],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/18_keuneonghaeangyeongseungji/keuneonghaeangyeongseungji4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6402f211-9285-4e41-a454-fd40ef4dc76a/keuneonghaeangyeongseungji4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":84,
+              "courseNoList":[3, 7],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/18_keuneonghaeangyeongseungji/keuneonghaeangyeongseungji5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0eb74a30-dca2-4401-a774-da96ef0b08a7/keuneonghaeangyeongseungji5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":33,
+          "placeName":"하효쇠소깍해수욕장",
+          "placeContents":"효돈천을 따라 한라산에 있는 현무암의 부스러기가\n하류를 따라 쌓여 만든 검은 모래 해변",
+          "videoContents":"효돈천을 따라 한라산에 있는 현무암의 부스러기가\n하류를 따라 쌓여 만든 검은 모래 해변",
+          "courseNoList":[3],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":85,
+              "courseNoList":[3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/19_hahyosoesokkakhaesuyokjang/hahyosoesokkakhaesuyokjang1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/53fc6a77-88ae-4754-a9cf-6df8d302ee8c/hahyosoesokkakhaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":86,
+              "courseNoList":[3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/19_hahyosoesokkakhaesuyokjang/hahyosoesokkakhaesuyokjang2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b74b46a5-a118-4c82-8ac5-97fab2dabd69/hahyosoesokkakhaesuyokjang2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":7,
+          "placeName":"황우지해안",
+          "placeContents":"바위 해변에서 즐기는 수영\n자연스럽게 형성된 천연 수영장에 다이빙 해보아요.",
+          "videoContents":"바위 해변에서 즐기는 수영\n자연스럽게 형성된 천연 수영장에 다이빙 해보아요.",
+          "courseNoList":[1, 3, 7],
+          "category":[12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":23,
+              "courseNoList":[1, 3, 7],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/20_hwangujihaean/hwangujihaean1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a8210aba-cda0-43dd-8eb4-5e35c677b122/hwangujihaean1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":24,
+              "courseNoList":[1, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/20_hwangujihaean/hwangujihaean2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/af588ca3-093f-4cc5-bbea-ca55c92f082d/hwangujihaean2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":25,
+              "courseNoList":[1, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/20_hwangujihaean/hwangujihaean3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f08a75fc-b56c-474e-93f4-366a37384e83/hwangujihaean3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":26,
+              "courseNoList":[1, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/20_hwangujihaean/hwangujihaean4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/ed3e21b8-b69c-4225-a111-fc6c1b4e427f/hwangujihaean4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":27,
+              "courseNoList":[1, 3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/20_hwangujihaean/hwangujihaean5.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f74bcf38-ddde-4175-8193-c5af1478f6b1/hwangujihaean5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },{
+          "placeNo":34,
+          "placeName":"대포해안주상절리대",
+          "placeContents":"바위를 깎아 놓은 것만 같은 모습을 한 주상절리\n제주가 화산섬이라는 것을 실감할 수 있어요.",
+          "videoContents":"바위를 깎아 놓은 것만 같은 모습을 한 주상절리\n제주가 화산섬이라는 것을 실감할 수 있어요.",
+          "courseNoList":[3],
+          "category":[12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":87,
+              "courseNoList":[3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/23_daepohaeanjusangjeollidae/daepohaeanjusangjeollidae1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/44fba438-a6f6-4bb6-927a-9800b0d9ab2f/daepohaeanjusangjeollidae1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":88,
+              "courseNoList":[3],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/23_daepohaeanjusangjeollidae/daepohaeanjusangjeollidae2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/09694e0a-f589-46b9-9fc6-f1c761aee0ac/daepohaeanjusangjeollidae2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":35,
+          "placeName":"용머리해수욕장",
+          "placeContents":"파도가 잠잠할 때에만 출입할 수 있는 곳\n3대가 덕을 쌓아야 가볼 수 있다고 하네요.",
+          "videoContents":"파도가 잠잠할 때에만 출입할 수 있는 곳\n3대가 덕을 쌓아야 가볼 수 있다고 하네요.",
+          "courseNoList":[3],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":89,
+              "courseNoList":[3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/28_yongmeorihaesuyokjang/yongmeorihaesuyokjang1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0a7a2eca-40f4-49ad-9894-a9940127c03b/yongmeorihaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":90,
+              "courseNoList":[3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/28_yongmeorihaesuyokjang/yongmeorihaesuyokjang2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3ad3458c-14af-4928-b068-166dd830a707/yongmeorihaesuyokjang2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":36,
+          "placeName":"황우치해안",
+          "placeContents":"파도와 바람이 오랜 세월 동안 만든 해안\n접근이 어려워 먼 거리에서 보아야 하는 비밀스런 장소",
+          "videoContents":"파도와 바람이 오랜 세월 동안 만든 해안\n접근이 어려워 먼 거리에서 보아야 하는 비밀스런 장소",
+          "courseNoList":[3],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":91,
+              "courseNoList":[3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/29_hwanguchihaean/hwanguchihaean1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1a6d565f-ac98-44a6-a806-7f684db19d6f/hwanguchihaean1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":92,
+              "courseNoList":[3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/29_hwanguchihaean/hwanguchihaean2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a01bf690-1df9-47f1-a33d-ee5f2b9ec487/hwanguchihaean2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":21,
+          "placeName":"사계해안",
+          "placeContents":"우리나라 가장 남쪽에 위치한 해안으로\n모래가 퇴적되어 만들어진 지형이에요.",
+          "videoContents":"우리나라 가장 남쪽에 위치한 해안으로\n모래가 퇴적되어 만들어진 지형이에요.",
+          "courseNoList":[2, 3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":51,
+              "courseNoList":[2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/58.png",
+              "videoPath":"https://www.youtube.com/embed/VJUUwNyeIj0?controls=0"
+            },
+            {
+              "videoNo":52,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/30_sagyehaean/sagyehaean1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/8b77b142-1eca-4a54-9616-fbcc2dea7499/sagyehaean1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":53,
+              "courseNoList":[2, 3],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/30_sagyehaean/sagyehaean2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/572e5eb2-7803-4210-862f-2e1a672bb21d/sagyehaean2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":20,
+          "placeName":"삼양해수욕장",
+          "placeContents":"과거에 빨래터로 이용되었던 장소로\n지역 주민들이 즐겨 찾는 해수욕장",
+          "videoContents":"검은 모래가 특징인 이색적 공간\n서핑 후 뜨거운 모래에서 찜질까지? So good~",
+          "courseNoList":[2, 3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":50,
+              "courseNoList":[2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/90.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-14.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":19,
+          "placeName":"이호테우해수욕장",
+          "placeContents":"근처에 이호테우 해수풀장이 있어\n바다, 풀장을 번갈아 이용할 수 있어요.",
+          "videoContents":"제주 공항에서 가까운 곳에 위치한만큼\n누구보다 빠르게 달려가 바다로 다이빙하기 좋은 해변",
+          "courseNoList":[2, 3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":49,
+              "courseNoList":[2, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/95.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi7/11-30T.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":37,
+          "placeName":"하모해수욕장",
+          "placeContents":"작은 해변으로 물놀이를 하러 가는 사람도 있지만\n편하게 캠핑을 하러 방문하는 분들이 많아요.",
+          "videoContents":"작은 해변으로 물놀이를 하러 가는 사람도 있지만\n편하게 캠핑을 하러 방문하는 분들이 많아요.",
+          "courseNoList":[3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":93,
+              "courseNoList":[3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/96.png",
+              "videoPath":"http://211.34.191.215:1935/live/78.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":38,
+          "placeName":"동한두기",
+          "placeContents":"동글동글 귀여운 몽돌이 한가득 있어\n낚시를 하기 적합한 곳이랍니다.",
+          "videoContents":"제주 북서쪽 마을 한두기의 동쪽에 있는 곳\n잔잔한 물결이 평화로워 보여요.",
+          "courseNoList":[3],
+          "category":[11, 15],
+          "placeVideoList":[
+            {
+              "videoNo":94,
+              "courseNoList":[3],
+              "category":[11, 15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/24.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-12.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":39,
+          "placeName":"도두항",
+          "placeContents":"제주시 가장 북쪽에 위치한 해안마을, 도두리.\n뚜벅이 여행으로 가기 좋은 장소예요.",
+          "videoContents":"용두암과 이호테우 사이에 있는 방파제\n낚시배들이 출항하는 곳",
+          "courseNoList":[3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":95,
+              "courseNoList":[3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/80.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-13.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":1,
+          "placeName":"판포포구",
+          "placeContents":"노을 명소로 유명한 판포포구\n예쁜 카페에서 시원한 커피 한 잔 하세요.",
+          "videoContents":"노을 명소로 유명한 판포포구\n예쁜 카페에서 시원한 커피 한 잔 하세요.",
+          "courseNoList":[1, 3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":1,
+              "courseNoList":[1, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/98.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-18.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":2,
+              "courseNoList":[1, 3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/99.png",
+              "videoPath":"https://www.youtube.com/embed/YTV_4QHPfyc?controls=0"
+            }
+          ]
+        },
+        {
+          "placeNo":40,
+          "placeName":"김녕포구",
+          "placeContents":"여름에 선선한 날씨를 선사하는 물멍 스팟\n깊고 넓은 파도를 한 눈에 담을 수 있어요.",
+          "videoContents":"여름에 선선한 날씨를 선사하는 물멍 스팟\n깊고 넓은 파도를 한 눈에 담을 수 있어요.",
+          "courseNoList":[3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":96,
+              "courseNoList":[3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/61.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi6/11-20.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":41,
+          "placeName":"월정포구",
+          "placeContents":"생활낚시를 할 수 있는 낚시 포인트\n에메랄드 빛의 넓은 바다가 특징인 곳이에요.",
+          "videoContents":"생활낚시를 할 수 있는 낚시 포인트\n에메랄드 빛의 넓은 바다가 특징인 곳이에요.",
+          "courseNoList":[3],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":97,
+              "courseNoList":[3],
+              "category":[11, 12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/63.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi7/11-21.stream/playlist.m3u8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":4,
+      "courseName":"오름",
+      "courseTitle":"소란스런 마음이 \n차분해지는 오름은 여기",
+      "courseContents":"오름의 왕국, 제주\n사계절에 따라 변하는 주위 풍경을 감상할 수 있고,\n정상에 오르면 아름다운 제주가 한 눈에 들어오는\n다양한 매력이 모여있는 오름으로 떠나요.",
+      "liveVideoPlace": [
+        {
+          "placeNo":42,
+          "placeName":"노꼬메오름",
+          "placeContents":"화산 지형이 가지고 있는 특징이 두드러지게 나타난\n오르기에 만만하지 않은 오름입니다.",
+          "videoContents":"꽁꽁 숨어있는 노꼬메오름 속으로 들어가면\n매력적인 뷰를 감상할 수 있어요.",
+          "courseNoList":[4, 9],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":98,
+              "courseNoList":[4, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/53.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/c8b3029d-b0b7-4607-b6e3-3318c7048d03/17_nokkomeoreum.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":43,
+          "placeName":"당오름",
+          "placeContents":"말굽 모양의 화구를 가지고 있는 당오름은\n이름처럼 주변에 당이 존재합니다.",
+          "videoContents":"말굽 모양의 화구를 가지고 있는 당오름은\n이름처럼 주변에 당이 존재합니다.",
+          "courseNoList":[4, 9],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":99,
+              "courseNoList":[4, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/48.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f2b3bc15-ea60-4fdb-b0f0-bb5403d682d8/18_dangoreum.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":44,
+          "placeName":"산방산",
+          "placeContents":"사냥꾼이 쏜 화살이 옥황상제의 엉덩이에 닿아\n화가난 옥황상제가 한라산 꼭대기를 뽑아 던진 곳",
+          "videoContents":"드넓게 펼쳐진 바다와 노란 유채꽃이 어우러져\n한 폭의 그림같은 제주 명소",
+          "courseNoList":[4, 9, 10],
+          "category":[12, 13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":100,
+              "courseNoList":[4, 9, 10],
+              "category":[12, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/9.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/96a1a4c1-8b48-4062-9189-b2077cdf437b/19_sanbangsan.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":101,
+              "courseNoList":[4, 9, 10],
+              "category":[12, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/127.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/132897eb-0c66-419a-8ae7-b61779d10a93/36_sanbangosseomyeongsang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":102,
+              "courseNoList":[4, 10],
+              "category":[12, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/27_sanbangsan/sanbangsan1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/319cd9b4-9ca3-4bad-90ed-e67db3c94d13/sanbangsan1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":103,
+              "courseNoList":[4, 10],
+              "category":[12, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/27_sanbangsan/sanbangsan2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b7ea3977-9fcc-40a5-af31-3c28944e5921/sanbangsan2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":104,
+              "courseNoList":[4, 10],
+              "category":[12, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/27_sanbangsan/sanbangsan3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/010b6d34-d8de-46fe-9cb4-48ab3d9e77ec/sanbangsan3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":45,
+          "placeName":"새별오름",
+          "placeContents":"저녁 하늘에 있는 샛별처럼 외로운 곳을 뜻해요.\n홀로 서있는 왕따나무가 매력적인 장소",
+          "videoContents":"가을에 더욱 아름답다고 하는 새별오름\n정상에 오르면 제주의 모습이 한 눈에 들어와요.",
+          "courseNoList":[4, 9, 12],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":105,
+              "courseNoList":[4, 9, 12],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/54.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/adcbdf25-705f-4821-af62-1b8010e86308/20_saebyeororeum.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":46,
+          "placeName":"성산일출봉",
+          "placeContents":"마그마가 물속에서 올라와 만들어진 화산채\n해가 뜨는 모습이 장관이라 이러한 이름이 붙었어요.",
+          "videoContents":"마그마가 물 속에서 올라와 만들어진 화산채\n일출이 장관이라 이러한 이름이 붙었어요.",
+          "courseNoList":[4, 9, 10],
+          "category":[11, 12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":106,
+              "courseNoList":[4, 10],
+              "category":[11, 12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/1.png",
+              "videoPath":"http://123.140.197.51/stream/34/play.m3u8"
+            },
+            {
+              "videoNo":107,
+              "courseNoList":[4, 10],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/2.png",
+              "videoPath":"https://www.youtube.com/watch?v=6iBJtmP1dyc"
+            },
+            {
+              "videoNo":108,
+              "courseNoList":[4, 9, 10],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0554170c-afa1-4f27-bba4-02db5e2ec179/21_seongsanilchulbong.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":109,
+              "courseNoList":[4, 10],
+              "category":[11, 12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/4.png",
+              "videoPath":"https://www.youtube.com/embed/txD4PIMszrQ?controls=0"
+            },
+            {
+              "videoNo":110,
+              "courseNoList":[4, 9, 10],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/128.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a8657dae-53df-4d01-8d77-d6daa0cb95f5/37_seongsanosseomyeongsang.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":47,
+          "placeName":"용눈이오름",
+          "placeContents":"계절 마다 다른 모습을 모여주는 용눈이오름\n세 개의 화산구가 부드럽게 이어져있어요.",
+          "videoContents":"계절 마다 다른 모습을 모여주는 용눈이오름\n세 개의 화산구가 부드럽게 이어져있어요.",
+          "courseNoList":[4, 9],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":111,
+              "courseNoList":[4, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/46.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/037a647f-a865-4c62-9f47-ca04f7b30ae3/23_yongnunioreum.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":112,
+              "courseNoList":[4, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/47.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/62a1c0d8-7973-469c-a784-b363ddcab04a/24_yongnunioreum.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":48,
+          "placeName":"천아숲길",
+          "placeContents":"천아수원지부터 시작된 숲길은 깊은 계곡과\n수려한 단풍으로 아름다운 곳이에요.",
+          "videoContents":"천아수원지부터 시작된 숲길은 깊은 계곡과\n수려한 단풍으로 아름다운 곳이에요.",
+          "courseNoList":[4, 9],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":113,
+              "courseNoList":[4, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/44.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/61b0e3df-d136-49c3-9fb3-673c2b601e19/26_cheonasupgil.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":114,
+              "courseNoList":[4, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/45.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/8062ba20-d735-4725-9054-1289e9edf053/27_cheonasupgil.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":49,
+          "placeName":"관음사",
+          "placeContents":"1909년에 창건된 관음사는 제주에 있는\n30여개의 사찰을 관장하는 중심지",
+          "videoContents":"참된 나를 찾아 떠나는 곳, 관음사\n한국 불교의 역사와 문화가 있는 장소랍니다.",
+          "courseNoList":[4, 9],
+          "category":[11, 13, 15],
+          "placeVideoList":[
+            {
+              "videoNo":115,
+              "courseNoList":[4],
+              "category":[11, 15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/22.png",
+              "videoPath":"http://211.114.96.121:1935/jejusi8/11-44.stream/playlist.m3u8"
+            },
+            {
+              "videoNo":116,
+              "courseNoList":[4, 9],
+              "category":[13, 15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/23.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0eba829a-cd3c-4ea2-bd33-156672d398ea/30_gwaneumsa.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":50,
+          "placeName":"금오름",
+          "placeContents":"유난히 검은 흙 때문에 흑악으로 알려진 오름\n꼭대기에 있는 분화구가 매력적인 장소",
+          "videoContents":"유난히 검은 흙 때문에 흑악으로 알려진 오름\n꼭대기에 있는 분화구가 매력적인 장소",
+          "courseNoList":[4, 6, 12],
+          "category":[13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":117,
+              "courseNoList":[4, 6, 12],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/9_geumoreum/geumoreum1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6d475ef5-a4a2-4d96-a647-ab7b5f02e6ad/geumoreum1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":118,
+              "courseNoList":[4, 12],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/9_geumoreum/geumoreum2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/00af7a24-01b8-4736-a9ae-aa1f88b94493/geumoreum2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":119,
+              "courseNoList":[4, 6, 12],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/9_geumoreum/geumoreum3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/477e05d5-56b6-4b17-9e44-bbb56041712c/geumoreum3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":120,
+              "courseNoList":[4, 12],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/9_geumoreum/geumoreum4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/ec618ac8-6b93-46d5-b649-4df88aba6da7/geumoreum4.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":51,
+          "placeName":"서우봉",
+          "placeContents":"아름다운 유채꽃이 활짝 피어나는 봄꽃 명소\n드넓은 바다를 보며 스트레스 발산하기 좋은 곳",
+          "videoContents":"아름다운 유채꽃이 활짝 피어나는 봄꽃 명소\n드넓은 바다를 보며 스트레스 발산하기 좋은 곳",
+          "courseNoList":[4, 6],
+          "category":[13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":121,
+              "courseNoList":[4],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/12_seoubong/seoubong1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/2dc92e9d-7514-4a53-bfd0-ab8dde2019a3/seoubong1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":122,
+              "courseNoList":[4],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/12_seoubong/seoubong2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/cfd26a54-8b24-45c4-96ee-99a2e28c5996/seoubong2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":123,
+              "courseNoList":[4, 6],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/12_seoubong/seoubong2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9eae8553-906c-4cbf-9a36-90b565612899/seoubong3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":52,
+          "placeName":"엉덩물계곡",
+          "placeContents":"큰 바위 때문에 험한 지형으로 엉덩이만 겨우\n들이밀고 볼 일만 보고 갔다는 이야기가 있는 장소",
+          "videoContents":"나무데크를 따라 천천히 길을 걷다보면,\n노란색과 초록색으로 가득한 계곡이 등장한답니다.",
+          "courseNoList":[4, 10],
+          "category":[13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":124,
+              "courseNoList":[4, 10],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/25_eongdeongmulgyegok/eongdeongmulgyegok1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6e98522e-4096-4815-81d1-c537c0ee6d00/eongdeongmulgyegok1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":125,
+              "courseNoList":[4, 10],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/25_eongdeongmulgyegok/eongdeongmulgyegok2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/53fe54db-bf88-4be0-9545-cbdffe874b42/eongdeongmulgyegok2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":53,
+          "placeName":"군산오름",
+          "placeContents":"30분 정도 길을 오르면 금세 정상에 닿을 수 있어\n일출의 풍경을 보러 가는 사람이 많아요.",
+          "videoContents":"30분 정도 길을 오르면 금세 정상에 닿을 수 있어\n일출의 풍경을 보러 가는 사람이 많아요.",
+          "courseNoList":[4, 6],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":126,
+              "courseNoList":[4],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/26_gunsanoreum/gunsanoreum1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/7501c6bc-93dd-40bc-80d2-f78b72cf709d/gunsanoreum1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":127,
+              "courseNoList":[4],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/26_gunsanoreum/gunsanoreum2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/09188ff8-ed90-4d73-924d-38a9e8e37dbc/gunsanoreum2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":128,
+              "courseNoList":[4],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/26_gunsanoreum/gunsanoreum3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/5afca5e9-8189-450d-ab49-03d8765c9182/gunsanoreum3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":129,
+              "courseNoList":[4, 6],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/26_gunsanoreum/gunsanoreum4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/985d6dec-d2ca-44e4-b8a1-0af930063627/gunsanoreum4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":130,
+              "courseNoList":[4],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/26_gunsanoreum/gunsanoreum4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/ddaeb3e3-7546-45c1-8150-50c83dda9d4d/gunsanoreum5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":54,
+          "placeName":"문도지오름",
+          "placeContents":"아름다운 일몰을 촬영하기 위해 모여드는 곳\n웨딩스냅 촬영지로도 알려져 있답니다.",
+          "videoContents":"아름다운 일몰을 촬영하기 위해 모여드는 곳\n웨딩스냅 촬영지로도 알려져 있답니다.",
+          "courseNoList":[4, 6],
+          "category":[13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":131,
+              "courseNoList":[4, 6],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/31_mundojioreum/mundojioreum1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/27485c9a-d7a8-4538-ba5f-7f15dd1372c5/mundojioreum1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":132,
+              "courseNoList":[4],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/31_mundojioreum/mundojioreum2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/8347f58a-a8d5-48b6-8ae2-e51a7914e97b/mundojioreum2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":133,
+              "courseNoList":[4],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/31_mundojioreum/mundojioreum3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/22cbf414-e020-4d67-a0f7-847f823194f2/mundojioreum3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":134,
+              "courseNoList":[4],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/31_mundojioreum/mundojioreum4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/42a79fc8-dd3c-431b-9999-3d11c951bc3b/mundojioreum4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":135,
+              "courseNoList":[4],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/31_mundojioreum/mundojioreum5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/7aa151db-ab0b-4e7a-9d00-07a58ba192f5/mundojioreum5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":55,
+          "placeName":"한라산영실",
+          "placeContents":"한라산 코스 중 가장 짧으면서 동시에 아름다운\n구간으로 알려진 영실 등산로의 목적지",
+          "videoContents":"한라산 코스 중 가장 짧으면서 동시에 아름다운\n구간으로 알려진 영실 등산로의 목적지",
+          "courseNoList":[4, 11],
+          "category":[11, 13, 15],
+          "placeVideoList":[
+            {
+              "videoNo":136,
+              "courseNoList":[4, 11],
+              "category":[11, 13, 15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/37.png",
+              "videoPath":"http://59.8.86.15:1935/live/44.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":56,
+          "placeName":"백록담",
+          "placeContents":"한라산 정상에 위치한 빼어난 경관을 보여주는 곳\n자연경관이 가진 가치를 소복이 담고 있다.",
+          "videoContents":"한라산 정상에 위치한 빼어난 경관을 보여주는 곳\n자연경관이 가진 가치를 소복이 담고 있다.",
+          "courseNoList":[4],
+          "category":[11, 13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":137,
+              "courseNoList":[4],
+              "category":[11, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/12.png",
+              "videoPath":"http://119.65.216.155:1935/live/cctv01.stream_360p/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":57,
+          "placeName":"왕관릉",
+          "placeContents":"왕관의 형상을 닮았다하여 붙여진 이름\n바위로 이루어진 높은 암벽이 아릅답다.",
+          "videoContents":"왕관의 형상을 닮았다하여 붙여진 이름\n바위로 이루어진 높은 암벽이 아릅답다.",
+          "courseNoList":[4],
+          "category":[11, 13],
+          "placeVideoList":[
+            {
+              "videoNo":138,
+              "courseNoList":[4],
+              "category":[11, 13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/13.png",
+              "videoPath":"http://119.65.216.155:1935/live/cctv02.stream_360p/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":58,
+          "placeName":"윗세오름",
+          "placeContents":"다양하게 피어있는 야생화를 마주하기 좋은 구간\n해발 1,700m의 높은 오름이다.",
+          "videoContents":"다양하게 피어있는 야생화를 마주하기 좋은 구간\n해발 1,700m의 높은 오름이다.",
+          "courseNoList":[4, 11],
+          "category":[11, 13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":139,
+              "courseNoList":[4, 11],
+              "category":[11, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/14.png",
+              "videoPath":"http://119.65.216.155:1935/live/cctv03.stream_360p/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":59,
+          "placeName":"어승생악",
+          "placeContents":"제주시와 백록담을 한 눈에 담을 수 있는\n초보자들을 위한 코스",
+          "videoContents":"제주시와 백록담을 한 눈에 담을 수 있는\n초보자들을 위한 코스",
+          "courseNoList":[4],
+          "category":[11, 13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":140,
+              "courseNoList":[4],
+              "category":[11, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/15.png",
+              "videoPath":"http://119.65.216.155:1935/live/cctv04.stream_360p/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":60,
+          "placeName":"제주 천아숲 한라산 둘레길",
+          "placeContents":"한라산 트래킹 코스 중 하나인 천아숲길\n해발 1,000m 고지에서 가을의 향을 느껴보세요.",
+          "videoContents":"한라산 트래킹 코스 중 하나인 천아숲길\n해발 1,000m 고지에서 가을의 향을 느껴보세요.",
+          "courseNoList":[4, 11],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":141,
+              "courseNoList":[4, 11],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/43.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a225d2c2-0f0e-4da7-becb-c590107a6554/25_cheonasupdullegil.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":5,
+      "courseName":"드라이브코스",
+      "courseTitle":"한 번 일을 시작하면\n끝까지 가는 사람들 모여라",
+      "courseContents":"제주도의 산과 바다를 만끽하고 싶다면?!\n시원한 바람을 맞으며 달리는 신나는 드라이브~\n영상을 보며 제주에서 드라이브 중이라는\n상상을 해보는 건 어떨까요?",
+      "liveVideoPlace": [
+        {
+          "placeNo":61,
+          "placeName":"1100도로",
+          "placeContents":"끝없이 이어지는 산길을 따라 달리면서\n상쾌함을 느낄 수 있는 대표적인 드라이브 코스",
+          "videoContents":"끝없이 이어지는 산길을 따라 달리면서\n상쾌함을 느낄 수 있는 대표적인 드라이브 코스",
+          "courseNoList":[5],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":142,
+              "courseNoList":[5],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/18.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a197da04-e28f-45c8-9f05-f394728db4a9/28_1100doro.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":143,
+              "courseNoList":[5],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/22_1100doro/1100doro1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f847123a-23c1-4d70-948b-fee341eff64b/1100doro1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":144,
+              "courseNoList":[5],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/22_1100doro/1100doro2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f0176cf5-da50-4924-aabf-831364fa6488/1100doro2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":145,
+              "courseNoList":[5],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/22_1100doro/1100doro3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/cd7c330b-843e-4f4b-bf50-ec7e25438a84/1100doro3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":62,
+          "placeName":"전농로",
+          "placeContents":"제주 유명한 벚꽃 명소 중 하나로,\n로맨틱한 분위기가 느껴지는 곳",
+          "videoContents":"벚꽃으로 터널을 만든 것 같은 공간\n하늘을 바라보면 분홍빛으로 물든 장면을 볼 수 있어요.",
+          "courseNoList":[5, 7, 10],
+          "category":[14],
+          "placeVideoList":[
+            {
+              "videoNo":148,
+              "courseNoList":[5, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/2_Jeonnongro/Jeonnongro3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/41dde2fa-c889-4f38-805f-d0f0fe4bab8d/Jeonnongro3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":28,
+          "placeName":"용두암",
+          "placeContents":"푸른 바다와 아름다운 석양을 감상할 수 있는\n낮과 밤 모두 아름다운 도로",
+          "videoContents":"용두암 주변으로 해녀들이 물질하는 모습을\n볼 수있는 제주의 3대 해수욕장 중 하나",
+          "courseNoList":[3, 5],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":65,
+              "courseNoList":[3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/3_yongduam/yongduam1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/c5221d87-de70-4299-aa91-16f9814921db/yongduam1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":66,
+              "courseNoList":[3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/3_yongduam/yongduam2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/231f503f-4425-49a6-aa7c-fb515b0b72f1/yongduam2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":67,
+              "courseNoList":[3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/3_yongduam/yongduam3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/ec777eed-37b8-43e3-af5a-3f0483b41be0/yongduam3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":63,
+          "placeName":"신창풍차해안도로",
+          "placeContents":"줄지어 늘어서있는 풍차가 인상적인 도로,\n시원한 바람을 맞으며 운전할 수 있는 곳",
+          "videoContents":"줄지어 늘어서있는 풍차가 인상적인 도로,\n시원한 바람을 맞으며 운전할 수 있는 곳",
+          "courseNoList":[5, 9],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":150,
+              "courseNoList":[5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/7_sinchangpungchahaeandoro/sinchangpungchahaeandoro1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b178b3b3-9738-490a-9138-ee38203a7f95/sinchangpungchahaeandoro1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":151,
+              "courseNoList":[5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/7_sinchangpungchahaeandoro/sinchangpungchahaeandoro2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/efe41529-1d09-409f-8c33-abe25343e614/sinchangpungchahaeandoro2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":6,
+          "placeName":"월정리해수욕장",
+          "placeContents":"반짝이는 바다와 모래사장을 감상할 수 있는\n대표적인 해변 중 하나",
+          "videoContents":"철썩이는 파도에 발을 담그면\n짜릿한 시원함이 머리까지 올라와요.",
+          "courseNoList":[1, 2, 3, 5, 9],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":20,
+              "courseNoList":[1, 2, 3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/13_woljeongrihaesuyokjang/woljeongrihaesuyokjang1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3fb06efe-9ebc-47c1-8e89-737e309f2558/woljeongrihaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":21,
+              "courseNoList":[1, 2, 3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/13_woljeongrihaesuyokjang/woljeongrihaesuyokjang2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f3f0b508-2473-459e-a655-68c587c69770/woljeongrihaesuyokjang2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":22,
+              "courseNoList":[1, 2, 3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/13_woljeongrihaesuyokjang/woljeongrihaesuyokjang3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9ce649bf-a75e-4df6-a182-795279cefd4d/woljeongrihaesuyokjang3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":31,
+          "placeName":"평대해변",
+          "placeContents":"한적한 해수욕장과 아기자기한 모래사장\n느긋하게 드라이브 하고 싶을 때 찾게되는 곳",
+          "videoContents":"파도가 치는 소리, 모래가 바스락거리는 소리 등\n백색소음으로 힐링하기 좋은 곳",
+          "courseNoList":[3, 5],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":78,
+              "courseNoList":[3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/14_pyeongdaehaebyeon/pyeongdaehaebyeon1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1116b961-1a7b-4915-81c7-326ef064d43b/pyeongdaehaebyeon1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":79,
+              "courseNoList":[3, 5],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/14_pyeongdaehaebyeon/pyeongdaehaebyeon2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/d7b3d073-f5ec-41ec-9b07-5f599cf31c6c/pyeongdaehaebyeon2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":64,
+          "placeName":"가시리유채꽃광장",
+          "placeContents":"봄이면 유채꽃으로 가득 차 있는 광장으로,\n여유롭게 드라이브를 즐길 수 있다.",
+          "videoContents":"향기로운 유채꽃이 대규모로 피어있는 아름다운 스팟\n드라이브, 산책, 사진촬영 전부 다 완벽한 곳",
+          "courseNoList":[5, 10],
+          "category":[14],
+          "placeVideoList":[
+            {
+              "videoNo":153,
+              "courseNoList":[5, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/17_gasiriyuchaekkoccgwangjang/gasiriyuchaekkoccgwangjang1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/52caad5c-3cc2-47a6-8fdd-d76aaeff3608/gasiriyuchaekkoccgwangjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":154,
+              "courseNoList":[5, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/17_gasiriyuchaekkoccgwangjang/gasiriyuchaekkoccgwangjang2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/673492f5-8b99-40d8-8ad3-87c15d29f875/gasiriyuchaekkoccgwangjang2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":155,
+              "courseNoList":[5, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/17_gasiriyuchaekkoccgwangjang/gasiriyuchaekkoccgwangjang3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3827385a-a7f5-4637-9c86-92c805ec25b1/gasiriyuchaekkoccgwangjang3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":156,
+              "courseNoList":[5, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/17_gasiriyuchaekkoccgwangjang/gasiriyuchaekkoccgwangjang4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/4b27622c-7a79-47ed-b075-3220715fe2b2/gasiriyuchaekkoccgwangjang4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":157,
+              "courseNoList":[5, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/17_gasiriyuchaekkoccgwangjang/gasiriyuchaekkoccgwangjang5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0f9c88be-41a0-4a59-a425-8e23dc655c9b/gasiriyuchaekkoccgwangjang5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":65,
+          "placeName":"제주대학교",
+          "placeContents":"조용하고 아름다운 드라이브 코스로,\n산책로와 깔끔한 캠퍼스가 인상적이다.",
+          "videoContents":"캠퍼스에 낭만 한 스푼, 벚꽃으로 물드는 청춘\n제주대학교로 가는 길, 캠퍼스 모두 아름다워요.",
+          "courseNoList":[5, 10, 11],
+          "category":[14],
+          "placeVideoList":[
+            {
+              "videoNo":158,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1a07f262-0a37-430e-ab5e-0882364871a9/jejudaehakgyo1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":159,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b7b2327b-0ca1-45bf-a432-8bac63601d17/jejudaehakgyo2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":160,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/4e060c8b-32b0-4838-a52f-692f3e022de2/jejudaehakgyo3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":161,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b6182201-eaf0-40db-a13a-177f26cbe65d/jejudaehakgyo4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":162,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/2e29f159-fed7-4f7b-87d5-960606e7f56c/jejudaehakgyo5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":6,
+      "courseName":"트래킹코스",
+      "courseTitle":"인생은 마이웨이!\n제주 인생길 베스트4",
+      "courseContents":"제주에서 꼭 해야 한다는 오름 트래킹\n편한 운동화를 신고 경치를 감상하며 오른다면\n정상에서는 분명 아름다운 전망을\n만날 수 있을 거에요.",
+      "liveVideoPlace": [
+        {
+          "placeNo":50,
+          "placeName":"금오름",
+          "placeContents":"정상에서 바라보는 주변 전망이 아름다운 곳\n산길을 따라 걷다보면 오름 입구를 마주할 수 있다.",
+          "videoContents":"유난히 검은 흙 때문에 흑악으로 알려진 오름\n꼭대기에 있는 분화구가 매력적인 장소",
+          "courseNoList":[4, 6, 12],
+          "category":[13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":117,
+              "courseNoList":[4, 6, 12],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/9_geumoreum/geumoreum1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6d475ef5-a4a2-4d96-a647-ab7b5f02e6ad/geumoreum1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":119,
+              "courseNoList":[4, 6, 12],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/9_geumoreum/geumoreum3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/477e05d5-56b6-4b17-9e44-bbb56041712c/geumoreum3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":51,
+          "placeName":"서우봉",
+          "placeContents":"올레길 19코스 중 들르게 되는 작은오름\n봄에는 유채꽃, 가을은 코스모스가 매력적이다.",
+          "videoContents":"아름다운 유채꽃이 활짝 피어나는 봄꽃 명소\n드넓은 바다를 보며 스트레스 발산하기 좋은 곳",
+          "courseNoList":[4, 6],
+          "category":[13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":123,
+              "courseNoList":[4, 6],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/12_seoubong/seoubong2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9eae8553-906c-4cbf-9a36-90b565612899/seoubong3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":53,
+          "placeName":"군산오름",
+          "placeContents":"제주 최대 규모의 기생화산 오름\n정상의 뿔바위와 기암괴석이 특징이다.",
+          "videoContents":"30분 정도 길을 오르면 금세 정상에 닿을 수 있어\n일출의 풍경을 보러 가는 사람이 많아요.",
+          "courseNoList":[4, 6],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":129,
+              "courseNoList":[4, 6],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/26_gunsanoreum/gunsanoreum4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/985d6dec-d2ca-44e4-b8a1-0af930063627/gunsanoreum4.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":54,
+          "placeName":"문도지오름",
+          "placeContents":"완만한 산등성이를 올라 정상에 다다르면\n넓은 바다와 붉은 석양을 조망할 수 있다.",
+          "videoContents":"아름다운 일몰을 촬영하기 위해 모여드는 곳\n웨딩스냅 촬영지로도 알려져 있답니다.",
+          "courseNoList":[4, 6],
+          "category":[13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":131,
+              "courseNoList":[4, 6],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/31_mundojioreum/mundojioreum1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/27485c9a-d7a8-4538-ba5f-7f15dd1372c5/mundojioreum1.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":7,
+      "courseName":"산책코스",
+      "courseTitle":"쓸데없이 FM으로만\n살았다면 여기를 걸어봐!",
+      "courseContents":"제주 여행의 묘미는 여유로움을 즐기는 것에 있어요.\n이 순간 만큼은 운전대에서 잠시 손을 놓고\n따뜻한 햇살, 시원한 바람을 맞으며\n주변을 둘러보는 기회를 갖는건 어떨까요?",
+      "liveVideoPlace": [
+        {
+          "placeNo":66,
+          "placeName":"삼성혈",
+          "placeContents":"제주의 성씨 시조가 솟아난 3개의 구멍을\n의미하는 삼성혈에서 선사시대의 흔적을 찾아봐요.",
+          "videoContents":"벚나무들이 한껏 자태를 뽐내고 있는 삼성혈에서\n흩날리는 벚꽃잎을 잡아보는 건 어떨까요?",
+          "courseNoList":[7, 10],
+          "category":[14],
+          "placeVideoList":[
+            {
+              "videoNo":166,
+              "courseNoList":[7, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/1_samseonghyeol/samsunghyeol4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9bcfe0b1-a153-49a0-93d7-855579d3c827/samseonghyeol4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":167,
+              "courseNoList":[7, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/1_samseonghyeol/samsunghyeol5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1ec862d7-a348-4a7c-b176-c6bb48796290/samseonghyeol5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":62,
+          "placeName":"전농로",
+          "placeContents":"봄엔 왕벚꽃터널, 여름엔 나무터널, 가을엔 단풍터널\n시시각각 변하는 거리의 맛을 느껴보세요.",
+          "videoContents":"벚꽃으로 터널을 만든 것 같은 공간\n하늘을 바라보면 분홍빛으로 물든 장면을 볼 수 있어요.",
+          "courseNoList":[5, 7, 10],
+          "category":[14],
+          "placeVideoList":[
+            {
+              "videoNo":147,
+              "courseNoList":[7, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/2_Jeonnongro/Jeonnongro2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/59c7fde0-89b5-493f-8772-13b0f5c98b1a/Jeonnongro2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":67,
+          "placeName":"애월카페거리",
+          "placeContents":"이국적 분위기가 물씸 느껴지는 애월의 카페거리에서\n한담해안까지 이어지는 산책로를 걷는 즐거움",
+          "videoContents":"이국적 분위기가 물씸 느껴지는 애월의 카페거리에서\n한담해안까지 이어지는 산책로를 걷는 즐거움",
+          "courseNoList":[7],
+          "category":[14],
+          "placeVideoList":[
+            {
+              "videoNo":168,
+              "courseNoList":[7],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/20_hwangujihaean/hwangujihaean1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/862947c6-a7e3-4aec-9f6d-b4504c1d87b0/aewolkapegeori1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":169,
+              "courseNoList":[7],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/20_hwangujihaean/hwangujihaean2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/d76243ef-7d20-42cb-976f-a2cb4e99fb63/aewolkapegeori2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":29,
+          "placeName":"금능해수욕장",
+          "placeContents":"야자수가 늘어져 있는 길을 따라 걷다보면\n마치 해외에 나온 것 같은 착각이 들 때가 있어요.",
+          "videoContents":"손가락 사이로 빠져나가는 모래와\n얕은 수심의 바닷물에 발을 담그는 재미가 있는 곳",
+          "courseNoList":[3, 7],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":69,
+              "courseNoList":[3, 7],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/6_geumneunghaesuyokjang/geumneunghaesuyokjang1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/e41b3ca7-44a3-4515-a91e-6b0d7ac9c5ff/geumneunghaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":24,
+          "placeName":"신창해안",
+          "placeContents":"바람에 따라 움직이는 풍차들과\n길게 조성된 산책로는 여유를 즐기기 딱이에요.",
+          "videoContents":"바람에 따라 움직이는 풍차들과\n길게 조성된 산책로는 여유를 즐기기 딱이에요.",
+          "courseNoList":[3, 7],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":60,
+              "courseNoList":[3, 7],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/8_sinchanghaean/sinchanghaean3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/102a30b5-f533-4e34-a168-4f466b46db45/sinchanghaean3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":30,
+          "placeName":"닭머르해안",
+          "placeContents":"아침에는 반짝거리는 바다를, 저녁엔 아름다운 일몰을,\n제주에 숨겨져 있는 보물같은 장소",
+          "videoContents":"아침에는 반짝거리는 바다를, 저녁엔 아름다운 일몰을,\n제주에 숨겨져 있는 보물같은 장소",
+          "courseNoList":[3, 7, 12],
+          "category":[12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":72,
+              "courseNoList":[3, 7, 12],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/10_talkmeoreuhaean/talkmeoreuhaean1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/411907ef-d1d2-4f09-9621-e3346df422ec/talkmeoreuhaean1.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":4,
+          "placeName":"함덕해수욕장",
+          "placeContents":"부드러운 해안 모래에서 이어지는 현무암 바위의\n조합이 매력적인 곳",
+          "videoContents":"부드러운 해안 모래에서 이어지는 현무암 바위의\n조합이 매력적인 곳",
+          "courseNoList":[1, 2, 3, 7, 9],
+          "category":[11, 12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":13,
+              "courseNoList":[1, 2, 3, 7],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/11_hamdeokhaesuyokjang/hamdeokhaesuyokjang1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6bd29bc1-4643-4d18-9c8d-3699347a110b/hamdeokhaesuyokjang1.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":68,
+          "placeName":"비자림 숲",
+          "placeContents":"녹색 수풀이 우거진 비자림 숲에서\n소곤소곤 대화하며 정취를 느껴보세요.",
+          "videoContents":"녹색 수풀이 우거진 비자림 숲에서\n소곤소곤 대화하며 정취를 느껴보세요.",
+          "courseNoList":[7, 11],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":170,
+              "courseNoList":[7, 11],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/15_bijarim/bijarim1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a607b56b-d6ba-4f52-893c-e00897e6e2b5/bijarim1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":171,
+              "courseNoList":[7, 11],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/15_bijarim/bijarim2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b07d3445-f72a-4581-9573-065a55fe9ccc/bijarim2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":172,
+              "courseNoList":[7, 11],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/15_bijarim/bijarim3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a997eeab-435e-4191-bdd2-04c99e640349/bijarim3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":32,
+          "placeName":"큰엉해안경승지",
+          "placeContents":"해안절벽 위에 조성되어 있는 2km 거리의\n해안산책로로 숲터널을 지나 걷기 좋아요.",
+          "videoContents":"큰 바위가 해안을 집어 삼킬 듯 입을 크게 벌리는\n모양새의 언덕이 수려하게 자리잡은 장소",
+          "courseNoList":[3, 7],
+          "category":[12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":83,
+              "courseNoList":[3, 7],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/18_keuneonghaeangyeongseungji/keuneonghaeangyeongseungji4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6402f211-9285-4e41-a454-fd40ef4dc76a/keuneonghaeangyeongseungji4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":84,
+              "courseNoList":[3, 7],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/18_keuneonghaeangyeongseungji/keuneonghaeangyeongseungji5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0eb74a30-dca2-4401-a774-da96ef0b08a7/keuneonghaeangyeongseungji5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":7,
+          "placeName":"황우지해안",
+          "placeContents":"제주 올레길 7코스의 황우지해안은 일몰 때에\n방문하면 바다에 머무는 해를 볼 수 있어요.",
+          "videoContents":"바위 해변에서 즐기는 수영\n자연스럽게 형성된 천연 수영장에 다이빙 해보아요.",
+          "courseNoList":[1, 3, 7],
+          "category":[12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":23,
+              "courseNoList":[1, 3, 7],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/20_hwangujihaean/hwangujihaean1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a8210aba-cda0-43dd-8eb4-5e35c677b122/hwangujihaean1.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":8,
+      "courseName":"승마공원",
+      "courseTitle":"백 마디 말보다\n한 마리 말이 주는 힐링!",
+      "courseContents":"연중 방목이 가능한 제주는 말을 키우기에\n적절한 지리적 환경을 가지고 있답니다.\n풀을 뜯는 말의 모습을 멍하니 바라보면서\n유유자적한 한 때를 보내보세요.",
+      "liveVideoPlace": [
+        {
+          "placeNo":69,
+          "placeName":"중산간도로",
+          "placeContents":"소복하게 눈이 쌓인 제주의 중산간 도로\n한가로이 먹이를 먹는 말과 드넓은 초원이 있는 곳",
+          "videoContents":"소복하게 눈이 쌓인 제주의 중산간 도로\n한가로이 먹이를 먹는 말과 드넓은 초원이 있는 곳",
+          "courseNoList":[8, 9],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":173,
+              "courseNoList":[8, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/49.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/5731d5f2-542d-45d3-9063-68a39802d41f/02_junggansandoro.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":70,
+          "placeName":"이시돌목장",
+          "placeContents":"널찍한 목장을 보며 가슴이 뻥 뚫리는 경험을 해보세요.\n이국적인 느낌이 가득한 목장입니다.",
+          "videoContents":"넓게 뻥 뚫려있는 목장의 풍경\n주변에 있는 오름과 밝게 빛나는 태양이 아름다워요.",
+          "courseNoList":[8, 9],
+          "category":[15],
+          "placeVideoList":[
+            {
+              "videoNo":174,
+              "courseNoList":[8, 9],
+              "category":[15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/55.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b176747e-5846-4014-bc63-0bc9b869d9d6/03_isidolmokjang.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":71,
+          "placeName":"목장카페드루쿰다",
+          "placeContents":"말과 염소, 양, 토끼가 함께 하는 목장카페\n제주의 초원을 품은 색다른 장소",
+          "videoContents":"말과 염소, 양, 토끼가 함께 하는 목장카페\n제주의 초원을 품은 색다른 장소",
+          "courseNoList":[8],
+          "category":[15],
+          "placeVideoList":[
+            {
+              "videoNo":175,
+              "courseNoList":[8],
+              "category":[15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/16_mokjangkapedeurukumda/mokjangkapedeurukumda1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/229da0af-0f8b-4073-831b-caa909757e36/mokjangkapedeurukumda1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":176,
+              "courseNoList":[8],
+              "category":[15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/16_mokjangkapedeurukumda/mokjangkapedeurukumda2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a3e77f43-0a5b-4570-8cec-e5bd08e7c783/mokjangkapedeurukumda2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":72,
+          "placeName":"렛츠런파크제주",
+          "placeContents":"산책하기 좋은 공원 옆에 경마장이 있어\n귀여운 조랑말이 달리는 모습을 볼 수 있어요.",
+          "videoContents":"산책하기 좋은 공원 옆에 경마장이 있어\n귀여운 조랑말이 달리는 모습을 볼 수 있어요.",
+          "courseNoList":[8],
+          "category":[15],
+          "placeVideoList":[
+            {
+              "videoNo":177,
+              "courseNoList":[8],
+              "category":[15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/32_rescheureonpakeujeju/rescheureonpakeujeju1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/51507321-72dd-44dd-8ad9-434da7a85a6f/rescheureonpakeujeju1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":178,
+              "courseNoList":[8],
+              "category":[15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/32_rescheureonpakeujeju/rescheureonpakeujeju2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/77533c00-b721-45a2-adf5-fed5add6f0b3/rescheureonpakeujeju2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":179,
+              "courseNoList":[8],
+              "category":[15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/32_rescheureonpakeujeju/rescheureonpakeujeju3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/c85e42cf-1984-4a4d-8cef-d3f2136aebc1/rescheureonpakeujeju3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":180,
+              "courseNoList":[8],
+              "category":[15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/32_rescheureonpakeujeju/rescheureonpakeujeju4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/bf55076d-4096-4a5c-8f0c-577df1dadd4d/rescheureonpakeujeju4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":181,
+              "courseNoList":[8],
+              "category":[15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/32_rescheureonpakeujeju/rescheureonpakeujeju5.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/09020315-53ec-4c00-8283-ce937dfd03f5/rescheureonpakeujeju5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":9,
+      "courseName":"360영상",
+      "courseTitle":"새로운 경험을 좋아하는\n모험가를 위한 360투어",
+      "courseContents":"제주도의 한 가운데에 서서 주변을 둘러보는\n느낌을 온전히 받을 수 있는 360도 영상\n높은 곳에서 바라보는 제주도의 아름다운 모습을\n편안하게 감상해보세요.",
+      "liveVideoPlace": [
+        {
+          "placeNo":69,
+          "placeName":"중산간도로",
+          "placeContents":"제주 중산간의 겨울철 모습\n옹기종기 모여있는 말과 주변의 눈을 구경해보세요.",
+          "videoContents":"소복하게 눈이 쌓인 제주의 중산간 도로\n한가로이 먹이를 먹는 말과 드넓은 초원이 있는 곳",
+          "courseNoList":[8, 9],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":173,
+              "courseNoList":[8, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/49.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/5731d5f2-542d-45d3-9063-68a39802d41f/02_junggansandoro.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":70,
+          "placeName":"이시돌목장",
+          "placeContents":"넓게 뻥 뚫려있는 목장의 풍경\n주변에 있는 오름과 밝게 빛나는 태양이 아름다워요.",
+          "videoContents":"넓게 뻥 뚫려있는 목장의 풍경\n주변에 있는 오름과 밝게 빛나는 태양이 아름다워요.",
+          "courseNoList":[8, 9],
+          "category":[15],
+          "placeVideoList":[
+            {
+              "videoNo":174,
+              "courseNoList":[8, 9],
+              "category":[15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/55.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b176747e-5846-4014-bc63-0bc9b869d9d6/03_isidolmokjang.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },{
+          "placeNo":5,
+          "placeName":"김녕해수욕장",
+          "placeContents":"하얀 모래로 잔잔하게 흘러오는\n흰색 파도와 세차게 돌아가는 풍차가 있는 곳",
+          "videoContents":"하얀 모래로 잔잔하게 흘러오는\n흰색 파도와 세차게 돌아가는 풍차가 있는 곳",
+          "courseNoList":[1, 3, 9],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":16,
+              "courseNoList":[1, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/59.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f9f213b3-7141-4a0e-bf32-c6bdb0fb2eeb/05_gimnyeonghaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":17,
+              "courseNoList":[1, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/60.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/5cf104b5-c68b-4e06-8d10-f96d83de532f/33_gimnyeongripoguhaeandoro.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":11,
+          "placeName":"보목포구",
+          "placeContents":"정취가 있는 마을, 뒤쪽으로는 산이\n앞으로는 푸른 바다가 펼쳐져있어요.",
+          "videoContents":"스노클링 초보자들이 가기 적절한 스팟!\n수천마리의 멸치 떼를 만날 수 있어요.",
+          "courseNoList":[1, 3, 9],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":34,
+              "courseNoList":[1, 3, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/107.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3d752b59-62cc-4393-ac64-40ebf43893e0/06_bomokpogu.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":23,
+          "placeName":"쇠소깍",
+          "placeContents":"잔잔한 물결이 고요하게 머물러있는\n쇠소깍의 레저, 카약을 눈으로 즐겨보세요.",
+          "videoContents":"담수와 해수가 만나 깊은 웅덩이를 만들고\n주변 기암괴석과 소나무 숲이 그늘을 만들어줘요.",
+          "courseNoList":[3, 9],
+          "category":[11, 14, 15],
+          "placeVideoList":[
+            {
+              "videoNo":56,
+              "courseNoList":[3, 9],
+              "category":[14, 15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/29.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/8ae5d76e-71f4-4735-a4f9-2e338b640e67/07_soesokkak.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":63,
+          "placeName":"신창풍차해안도로",
+          "placeContents":"줄지어 서있는 풍차가 서있는 곳이라\n씽씽 부는 바람을 실감나게 느낄 수 있어요.",
+          "videoContents":"줄지어 늘어서있는 풍차가 인상적인 도로,\n시원한 바람을 맞으며 운전할 수 있는 곳",
+          "courseNoList":[5, 9],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":152,
+              "courseNoList":[9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/70.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/e07c4918-b13f-42ab-9722-f05184bd6d30/08_sinchangpungchahaeanro.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":6,
+          "placeName":"월정리해수욕장",
+          "placeContents":"철썩이는 파도에 발을 담그면\n짜릿한 시원함이 머리까지 올라와요.",
+          "videoContents":"철썩이는 파도에 발을 담그면\n짜릿한 시원함이 머리까지 올라와요.",
+          "courseNoList":[1, 2, 3, 5, 9],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":19,
+              "courseNoList":[1, 2, 3, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/62.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6ce17591-d929-4395-82a1-effeafac0b17/09_woljeongrihaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":25,
+          "placeName":"자구리해안",
+          "placeContents":"이중섭 작가님이 제주에 와 오랜 시간을 보낸 장소\n슬프면서도 아름다운 특별한 곳",
+          "videoContents":"이중섭 작가님이 제주에서 많은 시간을\n보낸 곳으로 알려진 슬프고 아름다운 장소",
+          "courseNoList":[3, 9],
+          "category":[12],
+          "placeVideoList":[
+            {
+              "videoNo":61,
+              "courseNoList":[3, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/52.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/8deb0c50-3512-49fc-8554-303a3bc0035d/10_jagurihaean.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":26,
+          "placeName":"정방폭포",
+          "placeContents":"시원하게 쏟아지는 물줄기와\n주변에서 사진찍는 사람들을 구경해봐요.",
+          "videoContents":"햇빛이 폭포의 물줄기에 닿으면 은하수처럼\n반짝이는 장관을 펼치는 비밀스런 공간",
+          "courseNoList":[3, 9],
+          "category":[15],
+          "placeVideoList":[
+            {
+              "videoNo":62,
+              "courseNoList":[3, 9],
+              "category":[15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/116.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/7bc7e9fd-bb48-47c0-a236-ef878b2c7a7f/11_jeongbangpokpo.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":17,
+          "placeName":"중문색달해수욕장",
+          "placeContents":"서퍼들이 사랑하는 중문색달해주욕장,\n일몰이 선사하는 눈부신 아름다움이 있어요.",
+          "videoContents":"다양한 파도를 만날 수 있는 중문색달해수욕장\n뜨거운 여름을 시원하게 적시기 좋은 장소",
+          "courseNoList":[2, 3, 9],
+          "category":[11, 12],
+          "placeVideoList":[
+          ]
+        },
+        {
+          "placeNo":27,
+          "placeName":"차귀도",
+          "placeContents":"제주에서 1시간이나 배를 타고 들어가야 하는\n차귀도만의 비밀스런 공간을 엿보아요.",
+          "videoContents":"제주도에 있는 무인도 라는 별명을 가지고 있는 곳\n깨끗한 물과 조우할 수 있어요.",
+          "courseNoList":[3, 9],
+          "category":[11, 12],
+          "placeVideoList":[
+          ]
+        },
+        {
+          "placeNo":4,
+          "placeName":"함덕해수욕장",
+          "placeContents":"산책로를 따라 가면 만날 수 있는\n아름다운 함덕해수욕장의 물결",
+          "videoContents":"부드러운 해안 모래에서 이어지는 현무암 바위의\n조합이 매력적인 곳",
+          "courseNoList":[1, 2, 3, 7, 9],
+          "category":[11, 12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":11,
+              "courseNoList":[1, 2, 3, 9],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/7.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/7dfb3976-87e1-412a-8039-01824b18da16/15_hamdeokhaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":2,
+          "placeName":"협재해수욕장",
+          "placeContents":"빽빽하게 울타리처럼 우뚝 솟아있는 나무들과\n그 앞의 파도가 매력적인 곳",
+          "videoContents":"수심이 낮은 곳이 많아 아이들과 함께\n물고기, 해초 등을 구경할 수 있는 곳",
+          "courseNoList":[1, 2, 3, 9],
+          "category":[11, 12],
+          "placeVideoList":[
+            {
+              "videoNo":4,
+              "courseNoList":[1, 2, 3, 9],
+              "category":[12],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/66.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/fddd814f-7629-4cd3-929b-944b7fe2f8e0/16_hyeopjaehaesuyokjang.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":42,
+          "placeName":"노꼬메오름",
+          "placeContents":"꽁꽁 숨어있는 노꼬메오름 속으로 들어가면\n매력적인 뷰를 감상할 수 있어요.",
+          "videoContents":"꽁꽁 숨어있는 노꼬메오름 속으로 들어가면\n매력적인 뷰를 감상할 수 있어요.",
+          "courseNoList":[4, 9],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":98,
+              "courseNoList":[4, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/53.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/c8b3029d-b0b7-4607-b6e3-3318c7048d03/17_nokkomeoreum.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":43,
+          "placeName":"당오름",
+          "placeContents":"녹색으로 가득한 제주의 숲을 볼 수 있어요.\n오름의 둘레길을 편안하게 감상하세요.",
+          "videoContents":"말굽 모양의 화구를 가지고 있는 당오름은\n이름처럼 주변에 당이 존재합니다.",
+          "courseNoList":[4, 9],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":99,
+              "courseNoList":[4, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/48.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f2b3bc15-ea60-4fdb-b0f0-bb5403d682d8/18_dangoreum.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":44,
+          "placeName":"산방산",
+          "placeContents":"산방산에서 용머리해안까지\n바다 한 가운데에 있는 듯한 느낌이에요.",
+          "videoContents":"드넓게 펼쳐진 바다와 노란 유채꽃이 어우러져\n한 폭의 그림같은 제주 명소",
+          "courseNoList":[4, 9, 10],
+          "category":[12, 13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":100,
+              "courseNoList":[4, 9, 10],
+              "category":[12, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/9.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/96a1a4c1-8b48-4062-9189-b2077cdf437b/19_sanbangsan.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":101,
+              "courseNoList":[4, 9, 10],
+              "category":[12, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/127.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/132897eb-0c66-419a-8ae7-b61779d10a93/36_sanbangosseomyeongsang.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":45,
+          "placeName":"새별오름",
+          "placeContents":"가을에 더욱 아름답다고 하는 새별오름\n정상에 오르면 제주의 모습이 한 눈에 들어와요.",
+          "videoContents":"가을에 더욱 아름답다고 하는 새별오름\n정상에 오르면 제주의 모습이 한 눈에 들어와요.",
+          "courseNoList":[4, 9, 12],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":105,
+              "courseNoList":[4, 9, 12],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/54.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/adcbdf25-705f-4821-af62-1b8010e86308/20_saebyeororeum.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":46,
+          "placeName":"성산일출봉",
+          "placeContents":"제주에서 가장 해가 빨리 뜨는 곳\n낮과 밤을 동시에 즐겨보세요.",
+          "videoContents":"마그마가 물 속에서 올라와 만들어진 화산채\n일출이 장관이라 이러한 이름이 붙었어요.",
+          "courseNoList":[4, 9, 10],
+          "category":[11, 12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":108,
+              "courseNoList":[4, 9, 10],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0554170c-afa1-4f27-bba4-02db5e2ec179/21_seongsanilchulbong.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":110,
+              "courseNoList":[4, 9, 10],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/128.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a8657dae-53df-4d01-8d77-d6daa0cb95f5/37_seongsanosseomyeongsang.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":47,
+          "placeName":"용눈이오름",
+          "placeContents":"밤하늘에 수놓인 별이 한가득 있어요.\n어떤 뷰로 보아도 완벽한 오름이랍니다.",
+          "videoContents":"계절 마다 다른 모습을 모여주는 용눈이오름\n세 개의 화산구가 부드럽게 이어져있어요.",
+          "courseNoList":[4, 9],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":111,
+              "courseNoList":[4, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/46.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/037a647f-a865-4c62-9f47-ca04f7b30ae3/23_yongnunioreum.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":112,
+              "courseNoList":[4, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/47.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/62a1c0d8-7973-469c-a784-b363ddcab04a/24_yongnunioreum.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":48,
+          "placeName":"천아숲길",
+          "placeContents":"한라산 천아숲길의 여름, 가을, 겨울\n세 계절이 가진 각자의 정취가 있네요.",
+          "videoContents":"천아수원지부터 시작된 숲길은 깊은 계곡과\n수려한 단풍으로 아름다운 곳이에요.",
+          "courseNoList":[4, 9],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":113,
+              "courseNoList":[4, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/44.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/61b0e3df-d136-49c3-9fb3-673c2b601e19/26_cheonasupgil.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":114,
+              "courseNoList":[4, 9],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/45.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/8062ba20-d735-4725-9054-1289e9edf053/27_cheonasupgil.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":61,
+          "placeName":"1100도로",
+          "placeContents":"한라산을 가로질러 구불거리는 도로를\n마음껏 달려보실까요?",
+          "videoContents":"끝없이 이어지는 산길을 따라 달리면서\n상쾌함을 느낄 수 있는 대표적인 드라이브 코스",
+          "courseNoList":[5, 9],
+          "category":[13],
+          "placeVideoList":[
+          ]
+        },
+        {
+          "placeNo":73,
+          "placeName":"제주아라메밀꽃밭",
+          "placeContents":"넓은 메밀 꽃밭이 가득한 아라 메밀밭\n푸른 색의 하늘과 땅이 매력적이네요.",
+          "videoContents":"넓은 메밀 꽃밭이 가득한 아라 메밀밭\n푸른 색의 하늘과 땅이 매력적이네요.",
+          "courseNoList":[9, 10],
+          "category":[14],
+          "placeVideoList":[
+            {
+              "videoNo":182,
+              "courseNoList":[9, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/56.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3b1f011f-fc49-41fd-9559-5156cd9e5d3a/29_aramemilkkoccbat.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":49,
+          "placeName":"관음사",
+          "placeContents":"참된 나를 찾아 떠나는 곳, 관음사\n한국 불교의 역사와 문화가 있는 장소랍니다.",
+          "videoContents":"참된 나를 찾아 떠나는 곳, 관음사\n한국 불교의 역사와 문화가 있는 장소랍니다.",
+          "courseNoList":[4, 9],
+          "category":[11, 13, 15],
+          "placeVideoList":[
+            {
+              "videoNo":116,
+              "courseNoList":[4, 9],
+              "category":[13, 15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/23.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0eba829a-cd3c-4ea2-bd33-156672d398ea/30_gwaneumsa.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":10,
+      "courseName":"봄꽃명소",
+      "courseTitle":"풋풋함, 설렘이 있는\n수줍은 사람을 위한 코스",
+      "courseContents":"연한 녹색의 이파리가 올라오기 전\n수줍게 얼굴을 내미는 여린 봄꽃을 보셨나요?\n시원한 봄바람이 꽃을 스치면서\n코를 간질이는 꽃향기가 인상적인 장소입니다.",
+      "liveVideoPlace": [
+        {
+          "placeNo":44,
+          "placeName":"산방산",
+          "placeContents":"드넓게 펼쳐진 바다와 노란 유채꽃이 어우러져\n한 폭의 그림같은 제주 명소",
+          "videoContents":"드넓게 펼쳐진 바다와 노란 유채꽃이 어우러져\n한 폭의 그림같은 제주 명소",
+          "courseNoList":[4, 9, 10],
+          "category":[12, 13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":100,
+              "courseNoList":[4, 9, 10],
+              "category":[12, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/9.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/96a1a4c1-8b48-4062-9189-b2077cdf437b/19_sanbangsan.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":101,
+              "courseNoList":[4, 9, 10],
+              "category":[12, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/127.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/132897eb-0c66-419a-8ae7-b61779d10a93/36_sanbangosseomyeongsang.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":102,
+              "courseNoList":[4, 10],
+              "category":[12, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/27_sanbangsan/sanbangsan1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/319cd9b4-9ca3-4bad-90ed-e67db3c94d13/sanbangsan1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":103,
+              "courseNoList":[4, 10],
+              "category":[12, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/27_sanbangsan/sanbangsan2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b7ea3977-9fcc-40a5-af31-3c28944e5921/sanbangsan2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":104,
+              "courseNoList":[4, 10],
+              "category":[12, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/27_sanbangsan/sanbangsan3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/010b6d34-d8de-46fe-9cb4-48ab3d9e77ec/sanbangsan3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":73,
+          "placeName":"제주아라메밀꽃밭",
+          "placeContents":"청보리로 덮혀 있는 국내 최대 규모의 메밀밭\n25만평 메밀밭에 수놓아진 청보리와 한 컷!",
+          "videoContents":"넓은 메밀 꽃밭이 가득한 아라 메밀밭\n푸른 색의 하늘과 땅이 매력적이네요.",
+          "courseNoList":[9, 10],
+          "category":[14],
+          "placeVideoList":[
+            {
+              "videoNo":182,
+              "courseNoList":[9, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/56.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3b1f011f-fc49-41fd-9559-5156cd9e5d3a/29_aramemilkkoccbat.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":66,
+          "placeName":"삼성혈",
+          "placeContents":"벚나무들이 한껏 자태를 뽐내고 있는 삼성혈에서\n흩날리는 벚꽃잎을 잡아보는 건 어떨까요?",
+          "videoContents":"벚나무들이 한껏 자태를 뽐내고 있는 삼성혈에서\n흩날리는 벚꽃잎을 잡아보는 건 어떨까요?",
+          "courseNoList":[7, 10],
+          "category":[14],
+          "placeVideoList":[
+            {
+              "videoNo":163,
+              "courseNoList":[10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/1_samseonghyeol/samsunghyeol1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0c527133-bf39-42e6-b263-2701b0e780ac/samseonghyeol1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":164,
+              "courseNoList":[10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/1_samseonghyeol/samsunghyeol2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/91755705-3a61-4dc7-9f92-bdea2837bc9a/samseonghyeol2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":165,
+              "courseNoList":[10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/1_samseonghyeol/samsunghyeol3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/63d765d1-7528-4ee0-9c7f-14ae407977b9/samseonghyeol3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":166,
+              "courseNoList":[7, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/1_samseonghyeol/samsunghyeol4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9bcfe0b1-a153-49a0-93d7-855579d3c827/samseonghyeol4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":167,
+              "courseNoList":[7, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/1_samseonghyeol/samsunghyeol5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1ec862d7-a348-4a7c-b176-c6bb48796290/samseonghyeol5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":62,
+          "placeName":"전농로",
+          "placeContents":"벚꽃으로 터널을 만든 것 같은 공간\n하늘을 바라보면 분홍빛으로 물든 장면을 볼 수 있어요.",
+          "videoContents":"벚꽃으로 터널을 만든 것 같은 공간\n하늘을 바라보면 분홍빛으로 물든 장면을 볼 수 있어요.",
+          "courseNoList":[5, 7, 10],
+          "category":[14],
+          "placeVideoList":[
+            {
+              "videoNo":146,
+              "courseNoList":[10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/2_Jeonnongro/Jeonnongro1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1ec61ab8-d150-4830-90c0-1ff6ec2c84ab/Jeonnongro1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":147,
+              "courseNoList":[7, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/2_Jeonnongro/Jeonnongro2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/59c7fde0-89b5-493f-8772-13b0f5c98b1a/Jeonnongro2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":148,
+              "courseNoList":[5, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/2_Jeonnongro/Jeonnongro3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/41dde2fa-c889-4f38-805f-d0f0fe4bab8d/Jeonnongro3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":149,
+              "courseNoList":[10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/2_Jeonnongro/Jeonnongro4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/5bc14220-1a5e-4004-9d47-21de9d30e386/Jeonnongro4.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":64,
+          "placeName":"가시리유채꽃광장",
+          "placeContents":"향기로운 유채꽃이 대규모로 피어있는 아름다운 스팟\n드라이브, 산책, 사진촬영 전부 다 완벽한 곳",
+          "videoContents":"향기로운 유채꽃이 대규모로 피어있는 아름다운 스팟\n드라이브, 산책, 사진촬영 전부 다 완벽한 곳",
+          "courseNoList":[5, 10],
+          "category":[14],
+          "placeVideoList":[
+            {
+              "videoNo":153,
+              "courseNoList":[5, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/17_gasiriyuchaekkoccgwangjang/gasiriyuchaekkoccgwangjang1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/52caad5c-3cc2-47a6-8fdd-d76aaeff3608/gasiriyuchaekkoccgwangjang1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":154,
+              "courseNoList":[5, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/17_gasiriyuchaekkoccgwangjang/gasiriyuchaekkoccgwangjang2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/673492f5-8b99-40d8-8ad3-87c15d29f875/gasiriyuchaekkoccgwangjang2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":155,
+              "courseNoList":[5, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/17_gasiriyuchaekkoccgwangjang/gasiriyuchaekkoccgwangjang3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3827385a-a7f5-4637-9c86-92c805ec25b1/gasiriyuchaekkoccgwangjang3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":156,
+              "courseNoList":[5, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/17_gasiriyuchaekkoccgwangjang/gasiriyuchaekkoccgwangjang4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/4b27622c-7a79-47ed-b075-3220715fe2b2/gasiriyuchaekkoccgwangjang4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":157,
+              "courseNoList":[5, 10],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/17_gasiriyuchaekkoccgwangjang/gasiriyuchaekkoccgwangjang5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0f9c88be-41a0-4a59-a425-8e23dc655c9b/gasiriyuchaekkoccgwangjang5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":65,
+          "placeName":"제주대학교",
+          "placeContents":"캠퍼스에 낭만 한 스푼, 벚꽃으로 물드는 청춘\n제주대학교로 가는 길, 캠퍼스 모두 아름다워요.",
+          "videoContents":"캠퍼스에 낭만 한 스푼, 벚꽃으로 물드는 청춘\n제주대학교로 가는 길, 캠퍼스 모두 아름다워요.",
+          "courseNoList":[5, 10, 11],
+          "category":[14],
+          "placeVideoList":[
+            {
+              "videoNo":158,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1a07f262-0a37-430e-ab5e-0882364871a9/jejudaehakgyo1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":159,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b7b2327b-0ca1-45bf-a432-8bac63601d17/jejudaehakgyo2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":160,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/4e060c8b-32b0-4838-a52f-692f3e022de2/jejudaehakgyo3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":161,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b6182201-eaf0-40db-a13a-177f26cbe65d/jejudaehakgyo4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":162,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/2e29f159-fed7-4f7b-87d5-960606e7f56c/jejudaehakgyo5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":52,
+          "placeName":"엉덩물계곡",
+          "placeContents":"나무데크를 따라 천천히 길을 걷다보면,\n노란색과 초록색으로 가득한 계곡이 등장한답니다.",
+          "videoContents":"나무데크를 따라 천천히 길을 걷다보면,\n노란색과 초록색으로 가득한 계곡이 등장한답니다.",
+          "courseNoList":[4, 10],
+          "category":[13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":124,
+              "courseNoList":[4, 10],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/25_eongdeongmulgyegok/eongdeongmulgyegok1.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6e98522e-4096-4815-81d1-c537c0ee6d00/eongdeongmulgyegok1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":125,
+              "courseNoList":[4, 10],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/25_eongdeongmulgyegok/eongdeongmulgyegok2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/53fe54db-bf88-4be0-9545-cbdffe874b42/eongdeongmulgyegok2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":46,
+          "placeName":"성산일출봉",
+          "placeContents":"만개한 유채꽃 뒤로 홀연히 솟아있는 성산일출봉\n파란 하늘과 함께일 때 더 가치있어요.",
+          "videoContents":"마그마가 물 속에서 올라와 만들어진 화산채\n일출이 장관이라 이러한 이름이 붙었어요.",
+          "courseNoList":[4, 9, 10],
+          "category":[11, 12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":106,
+              "courseNoList":[4, 10],
+              "category":[11, 12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/1.png",
+              "videoPath":"http://123.140.197.51/stream/34/play.m3u8"
+            },
+            {
+              "videoNo":107,
+              "courseNoList":[4, 10],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/2.png",
+              "videoPath":"https://www.youtube.com/watch?v=6iBJtmP1dyc"
+            },
+            {
+              "videoNo":108,
+              "courseNoList":[4, 9, 10],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0554170c-afa1-4f27-bba4-02db5e2ec179/21_seongsanilchulbong.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":109,
+              "courseNoList":[4, 10],
+              "category":[11, 12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/4.png",
+              "videoPath":"https://www.youtube.com/embed/txD4PIMszrQ?controls=0"
+            },
+            {
+              "videoNo":110,
+              "courseNoList":[4, 9, 10],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/128.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a8657dae-53df-4d01-8d77-d6daa0cb95f5/37_seongsanosseomyeongsang.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":11,
+      "courseName":"단풍명소",
+      "courseTitle":"혼자 있을 때의 고요함과\n고즈넉한 매력을 안다면",
+      "courseContents":"빨강, 주황, 노랑색이 자연스럽게 어우러져서\n불이 활활 타오르는 것 같이 보이는 가을 단풍.\n파란 하늘과 대비되어 더욱 아름다워 보이는\n현란한 경치를 구경해볼까요?",
+      "liveVideoPlace": [
+        {
+          "placeNo":68,
+          "placeName":"비자림 숲",
+          "placeContents":"천 년의 세월이 녹아있는 신비로운 숲\n피톤치드를 머금은 숲에서 보는 아름다운 단풍",
+          "videoContents":"녹색 수풀이 우거진 비자림 숲에서\n소곤소곤 대화하며 정취를 느껴보세요.",
+          "courseNoList":[7, 11],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":170,
+              "courseNoList":[7, 11],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/15_bijarim/bijarim1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a607b56b-d6ba-4f52-893c-e00897e6e2b5/bijarim1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":171,
+              "courseNoList":[7, 11],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/15_bijarim/bijarim2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b07d3445-f72a-4581-9573-065a55fe9ccc/bijarim2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":172,
+              "courseNoList":[7, 11],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/15_bijarim/bijarim3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a997eeab-435e-4191-bdd2-04c99e640349/bijarim3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":58,
+          "placeName":"윗세오름",
+          "placeContents":"한라산 다음으로 높은 고도를 자랑하는 오름\n화려한 단풍이 배경이 되는 곳입니다.",
+          "videoContents":"다양하게 피어있는 야생화를 마주하기 좋은 구간\n해발 1,700m의 높은 오름이다.",
+          "courseNoList":[4, 11],
+          "category":[11, 13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":139,
+              "courseNoList":[4, 11],
+              "category":[11, 13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/14.png",
+              "videoPath":"http://119.65.216.155:1935/live/cctv03.stream_360p/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "placeNo":65,
+          "placeName":"제주대학교",
+          "placeContents":"붉게 물든 벚나무를 가로지르는 정취가 있는 곳\n한적한 곳이라 가을의 향을 느끼기 좋은 장소예요.",
+          "videoContents":"캠퍼스에 낭만 한 스푼, 벚꽃으로 물드는 청춘\n제주대학교로 가는 길, 캠퍼스 모두 아름다워요.",
+          "courseNoList":[5, 10, 11],
+          "category":[14],
+          "placeVideoList":[
+            {
+              "videoNo":158,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1a07f262-0a37-430e-ab5e-0882364871a9/jejudaehakgyo1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":159,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b7b2327b-0ca1-45bf-a432-8bac63601d17/jejudaehakgyo2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":160,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo3.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/4e060c8b-32b0-4838-a52f-692f3e022de2/jejudaehakgyo3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":161,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/b6182201-eaf0-40db-a13a-177f26cbe65d/jejudaehakgyo4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":162,
+              "courseNoList":[5, 10, 11],
+              "category":[14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/21_jejudaehakgyo/jejudaehakgyo5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/2e29f159-fed7-4f7b-87d5-960606e7f56c/jejudaehakgyo5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":60,
+          "placeName":"제주 천아숲 한라산 둘레길",
+          "placeContents":"한라산 트래킹 코스 중 하나인 천아숲길\n해발 1,000m 고지에서 가을의 향을 느껴보세요.",
+          "videoContents":"한라산 트래킹 코스 중 하나인 천아숲길\n해발 1,000m 고지에서 가을의 향을 느껴보세요.",
+          "courseNoList":[4, 11],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":141,
+              "courseNoList":[4, 11],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/43.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a225d2c2-0f0e-4da7-becb-c590107a6554/25_cheonasupdullegil.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":55,
+          "placeName":"한라산영실",
+          "placeContents":"영실코스 병풍바위 일대에 펼쳐져 있는\n형형색색의 단풍은 단연 최고라고 할 수 있죠.",
+          "videoContents":"한라산 코스 중 가장 짧으면서 동시에 아름다운\n구간으로 알려진 영실 등산로의 목적지",
+          "courseNoList":[4, 11],
+          "category":[11, 13, 15],
+          "placeVideoList":[
+            {
+              "videoNo":136,
+              "courseNoList":[4, 11],
+              "category":[11, 13, 15],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/37.png",
+              "videoPath":"http://59.8.86.15:1935/live/44.stream/playlist.m3u8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":12,
+      "courseName":"억새명소",
+      "courseTitle":"주변에게 안락을 선사하는\n따뜻함을 가진 당신",
+      "courseContents":"가을의 억새는 쓸쓸하면서도 외로운 분위기를\n자아내기 때문에 더 마음이 가게 되지요.\n노을이 지는 때에 억새밭을 방문하면 볼 수 있는\n붉은 억새 물결을 놓치지 마세요.",
+      "liveVideoPlace": [
+        {
+          "placeNo":50,
+          "placeName":"금오름",
+          "placeContents":"분화구 주변을 둘러싼 은빛 억새가 넘실대는 장면을\n눈 안에 가득 담아 내려오고 싶은 가을의 중심",
+          "videoContents":"유난히 검은 흙 때문에 흑악으로 알려진 오름\n꼭대기에 있는 분화구가 매력적인 장소",
+          "courseNoList":[4, 6, 12],
+          "category":[13, 14],
+          "placeVideoList":[
+            {
+              "videoNo":117,
+              "courseNoList":[4, 6, 12],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/9_geumoreum/geumoreum1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/6d475ef5-a4a2-4d96-a647-ab7b5f02e6ad/geumoreum1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":118,
+              "courseNoList":[4, 12],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/9_geumoreum/geumoreum2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/00af7a24-01b8-4736-a9ae-aa1f88b94493/geumoreum2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":119,
+              "courseNoList":[4, 6, 12],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/9_geumoreum/geumoreum3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/477e05d5-56b6-4b17-9e44-bbb56041712c/geumoreum3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":120,
+              "courseNoList":[4, 12],
+              "category":[13, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/9_geumoreum/geumoreum4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/ec618ac8-6b93-46d5-b649-4df88aba6da7/geumoreum4.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":30,
+          "placeName":"닭머르해안",
+          "placeContents":"저무는 가을 석양을 담기 적절한 곳\n선선한 바닷바람에 흔들리는 억새가 아름답다.",
+          "videoContents":"아침에는 반짝거리는 바다를, 저녁엔 아름다운 일몰을,\n제주에 숨겨져 있는 보물같은 장소",
+          "courseNoList":[3, 7, 12],
+          "category":[12, 14],
+          "placeVideoList":[
+            {
+              "videoNo":72,
+              "courseNoList":[3, 7, 12],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/10_talkmeoreuhaean/talkmeoreuhaean1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/411907ef-d1d2-4f09-9621-e3346df422ec/talkmeoreuhaean1.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":73,
+              "courseNoList":[3, 12],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/10_talkmeoreuhaean/talkmeoreuhaean2.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/256b5370-5ac5-437d-bd34-bcad195d6431/talkmeoreuhaean2.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":74,
+              "courseNoList":[3, 12],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/10_talkmeoreuhaean/talkmeoreuhaean3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1ac94362-6a0b-4c69-a4b7-eb60774bddbb/talkmeoreuhaean3.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":75,
+              "courseNoList":[3, 12],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/10_talkmeoreuhaean/talkmeoreuhaean4.jpg",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9303d0f6-a619-4b1e-94aa-0cd16a9a310a/talkmeoreuhaean4.ism/manifest(format=m3u8-cmaf)"
+            },
+            {
+              "videoNo":76,
+              "courseNoList":[3, 12],
+              "category":[12, 14],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/10_talkmeoreuhaean/talkmeoreuhaean5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/7ae928c5-5875-4688-b9df-342a1bda58d9/talkmeoreuhaean5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":45,
+          "placeName":"새별오름",
+          "placeContents":"제주 서쪽에서 억새 명소로 손꼽히는 장소로\n많은 사람들이 인증샷을 위해 방문하기도 한다.",
+          "videoContents":"가을에 더욱 아름답다고 하는 새별오름\n정상에 오르면 제주의 모습이 한 눈에 들어와요.",
+          "courseNoList":[4, 9, 12],
+          "category":[13],
+          "placeVideoList":[
+            {
+              "videoNo":105,
+              "courseNoList":[4, 9, 12],
+              "category":[13],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/54.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/adcbdf25-705f-4821-af62-1b8010e86308/20_saebyeororeum.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

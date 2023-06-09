@@ -1,0 +1,452 @@
+{
+  "liveCourseData":[
+    {
+      "courseNo":21,
+      "courseName":"Shorts",
+      "courseTitle":"가로도 좋지만 세로도 좋다\nShorts 대구여행",
+      "courseContents":"가로도 좋지만 세로도 좋다!\n세로로 보는 대구 여행",
+      "liveVideoPlace": [
+        {
+          "placeNo":301,
+          "placeName":"팔공산케이블카",
+          "placeContents":"팔공산과 대구 시내 전경이 한눈에\n전망대, 소원의 언덕, 사랑의 터널 등의 즐길거리가 있어요.",
+          "videoContents":"팔공산과 대구 시내 전경이 한눈에\n전망대, 소원의 언덕, 사랑의 터널 등의 즐길거리가 있어요.",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":301,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9747833b-f52d-428a-9fa7-8843411e710b/shorts1.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":302,
+          "placeName":"대구수목원",
+          "placeContents":"쓰레기 매립장이 청정 수목원으로 재탄생!\n전국 최초의 도심형 수목원",
+          "videoContents":"쓰레기 매립장이 청정 수목원으로 재탄생!\n전국 최초의 도심형 수목원",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":302,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/e97b04bd-7d8e-4524-86f3-f80048fe5cb8/shorts2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":303,
+          "placeName":"디아크",
+          "placeContents":"물과 자연과 문화가 오롯이 담긴 건축예술품\n최고의 힐링 장소는 디아크 3층 전망대",
+          "videoContents":"물과 자연과 문화가 오롯이 담긴 건축예술품\n최고의 힐링 장소는 디아크 3층 전망대",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":303,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/8349fc28-6aa8-4d8c-bd1f-5948dac7fd48/shorts3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":304,
+          "placeName":"안심체육공원",
+          "placeContents":"로맨틱하고 웅장한 메타세쿼이아 길\n좌우로 키 큰 나무들이 줄 서 있는 장관",
+          "videoContents":"로맨틱하고 웅장한 메타세쿼이아 길\n좌우로 키 큰 나무들이 줄 서 있는 장관",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":304,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/5a868733-26c7-415f-8d9f-bc02e2fd3dc4/shorts4.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":305,
+          "placeName":"대명유수지",
+          "placeContents":"가을이면 살랑살랑 억새로 물들어 있는\n광활한 습지를 만나 볼 수 있어요.",
+          "videoContents":"가을이면 살랑살랑 억새로 물들어 있는\n광활한 습지를 만나 볼 수 있어요.",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":305,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/2a080da2-ada9-4666-8ba7-6a2fe4df133a/shorts5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":306,
+          "placeName":"두류공원",
+          "placeContents":"문화, 교양, 체육시설이 있는 도시근린공원\n시민건강증진과 시민문화의 중심!",
+          "videoContents":"문화, 교양, 체육시설이 있는 도시근린공원\n시민건강증진과 시민문화의 중심!",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":306,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts6.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/55cb6297-adc8-461d-b6b6-774d5f2e0de9/shorts6.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":307,
+          "placeName":"비슬산",
+          "placeContents":"장중한 산세, 30만 평의 진달래꽃\n자연휴양림에서 삼림욕과 휴식도 즐길 수 있어요.",
+          "videoContents":"장중한 산세, 30만 평의 진달래꽃\n자연휴양림에서 삼림욕과 휴식도 즐길 수 있어요.",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":307,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts7.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/4e2c688b-094f-46c7-80a8-8b8466d69e4b/shorts7.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":308,
+          "placeName":"호텔수성",
+          "placeContents":"수성못이 한 눈에 보이는 호텔수성\n수영도 하고 호캉스도 즐겨보아요!",
+          "videoContents":"수성못이 한 눈에 보이는 호텔수성\n수영도 하고 호캉스도 즐겨보아요!",
+          "courseNoList":[21],
+          "category":[21],
+          "placeVideoList":[
+            {
+              "videoNo":308,
+              "courseNoList":[21],
+              "category":[21],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/1_shorts/shorts8.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/0d6856f9-38da-446c-ba98-b8afd416df88/shorts8.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":22,
+      "courseName":"드론",
+      "courseTitle":"드론과 함께\n떠나는 대구 투어",
+      "courseContents":"높게 보아야 좋다\n하늘에서 보는 대구 설렘 코스",
+      "liveVideoPlace": [
+        {
+          "placeNo":309,
+          "placeName":"83타워",
+          "placeContents":"도심 속에 우뚝 솟은 대구의 랜드마크\n다보탑 형태의 팔각형 탑신을 자랑하며 한국의 전통 건축미 재현",
+          "videoContents":"도심 속에 우뚝 솟은 대구의 랜드마크\n다보탑 형태의 팔각형 탑신을 자랑하며 한국의 전통 건축미 재현",
+          "courseNoList":[22],
+          "category":[22],
+          "placeVideoList":[
+            {
+              "videoNo":309,
+              "courseNoList":[22],
+              "category":[22],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/2_drone/drone1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a377a628-96e0-43da-b0ed-be25c1f0cd33/drone1.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":310,
+          "placeName":"달서별빛캠프",
+          "placeContents":"봄이 다가오면 캠핑하러 가야죠.\n힐링도하고 추억도 쌓으로 가요!",
+          "videoContents":"봄이 다가오면 캠핑하러 가야죠.\n힐링도하고 추억도 쌓으로 가요!",
+          "courseNoList":[22],
+          "category":[22],
+          "placeVideoList":[
+            {
+              "videoNo":310,
+              "courseNoList":[22],
+              "category":[22],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/2_drone/drone2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3a820d96-68d7-4d05-9b1d-ca0d8452b540/drone2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":311,
+          "placeName":"성당못",
+          "placeContents":"도심 속 걷기 좋은 산책로\n연못도 보고 산책도 하고 일석이조!",
+          "videoContents":"도심 속 걷기 좋은 산책로\n연못도 보고 산책도 하고 일석이조!",
+          "courseNoList":[22],
+          "category":[22],
+          "placeVideoList":[
+            {
+              "videoNo":311,
+              "courseNoList":[22],
+              "category":[22],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/2_drone/drone3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/526ec780-a4d9-4a3d-a59f-77dc429164e6/drone3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":23,
+      "courseName":"자연",
+      "courseTitle":"자연에 물들고\n자연을 배우다",
+      "courseContents":"숨 가쁜 일상을 잠시 내려놓고\n솔향기를 맡으며 느리게 걸으며\n꽉 차오른 스트레스를 날려보아요.",
+      "liveVideoPlace": [
+        {
+          "placeNo":312,
+          "placeName":"대구 아쿠아리움",
+          "placeContents":"200여종의 해양생물, 동물들과 교감할 수 있는 곳!\n생생한 해양 생태계로 초대합니다.",
+          "videoContents":"200여종의 해양생물, 동물들과 교감할 수 있는 곳!\n생생한 해양 생태계로 초대합니다.",
+          "courseNoList":[23],
+          "category":[23],
+          "placeVideoList":[
+            {
+              "videoNo":312,
+              "courseNoList":[23],
+              "category":[23],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/3_healing/healing1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/77d63c64-49c3-4117-9628-a11edc10433b/healing1.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":313,
+          "placeName":"대구수목원",
+          "placeContents":"쓰레기 매립장이 청정 수목원으로 재탄생!\n전국 최초의 도심형 수목원",
+          "videoContents":"쓰레기 매립장이 청정 수목원으로 재탄생!\n전국 최초의 도심형 수목원",
+          "courseNoList":[23],
+          "category":[23],
+          "placeVideoList":[
+            {
+              "videoNo":313,
+              "courseNoList":[23],
+              "category":[23],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/3_healing/healing2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/ad2ed09b-8519-4951-8c41-353a816c4a53/healing2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":314,
+          "placeName":"도동서원",
+          "placeContents":"아름드리 은행나무와 아름다운 토담을 품은 고즈넉한 서원\n임진왜란 이후 다시 태어난 서원을 살펴보아요.",
+          "videoContents":"아름드리 은행나무와 아름다운 토담을 품은 고즈넉한 서원\n임진왜란 이후 다시 태어난 서원을 살펴보아요.",
+          "courseNoList":[23],
+          "category":[23],
+          "placeVideoList":[
+            {
+              "videoNo":314,
+              "courseNoList":[23],
+              "category":[23],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/3_healing/healing3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/4f7c77af-693d-4bf7-acbe-e8a4c6d97922/healing3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":315,
+          "placeName":"팔공산케이블카",
+          "placeContents":"팔공산과 대구 시내 전경이 한눈에\n전망대, 소원의 언덕, 사랑의 터널 등의 즐길거리가 있어요.",
+          "videoContents":"팔공산과 대구 시내 전경이 한눈에\n전망대, 소원의 언덕, 사랑의 터널 등의 즐길거리가 있어요.",
+          "courseNoList":[23],
+          "category":[23],
+          "placeVideoList":[
+            {
+              "videoNo":315,
+              "courseNoList":[23],
+              "category":[23],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/3_healing/healing4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/ad7560f4-a996-4508-bcdd-210cf68e6702/healing4.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":316,
+          "placeName":"월광수변공원",
+          "placeContents":"온갖 나무와 꽃이 어우러진 휴식공간\n특히 음악과 율동에 맞춰 물을 쏘아 올리는 음악분수가 멋져요.",
+          "videoContents":"온갖 나무와 꽃이 어우러진 휴식공간\n특히 음악과 율동에 맞춰 물을 쏘아 올리는 음악분수가 멋져요.",
+          "courseNoList":[23],
+          "category":[23],
+          "placeVideoList":[
+            {
+              "videoNo":316,
+              "courseNoList":[23],
+              "category":[23],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/3_healing/healing5.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/e1b577d6-7723-4e12-af8f-340cafe17406/healing5.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":24,
+      "courseName":"전시",
+      "courseTitle":"속이 꽉 찬 체험들이\n기다리고 있는 체험여행",
+      "courseContents":"도심 속 구석구석 흩어져 있는\n미술관과 박물관을 찾아가 보자.\n말랑말랑 감성과 행복을 충전하러",
+      "liveVideoPlace": [
+        {
+          "placeNo":318,
+          "placeName":"대구미술관",
+          "placeContents":"전시공간과 자연풍경이 고정되지 않고 율동하고\n근현대미술과 다양한 교육프로그램까지 만날 수 있어요.",
+          "videoContents":"전시공간과 자연풍경이 고정되지 않고 율동하고\n근현대미술과 다양한 교육프로그램까지 만날 수 있어요.",
+          "courseNoList":[24],
+          "category":[24],
+          "placeVideoList":[
+            {
+              "videoNo":318,
+              "courseNoList":[24],
+              "category":[24],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/4_museum/museum1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/7a386823-dd94-491b-b504-e4fd0f7fd384/museum1.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":319,
+          "placeName":"달성 대구현대미술제",
+          "placeContents":"예술을 담다, 달성을 품다\n야외에서 만나는 미술작품",
+          "videoContents":"예술을 담다, 달성을 품다\n야외에서 만나는 미술작품",
+          "courseNoList":[24],
+          "category":[24],
+          "placeVideoList":[
+            {
+              "videoNo":319,
+              "courseNoList":[24],
+              "category":[24],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/4_museum/museum2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/1d7006f8-6946-4d94-b2fe-554adb8ccd44/museum2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":320,
+          "placeName":"대구근대역사관",
+          "placeContents":"타임머신 없이 떠나는 대구 근대 시간 여행\n우리나라 최초의 시내버스인 부영 버스도 체험할 수 있어요.",
+          "videoContents":"타임머신 없이 떠나는 대구 근대 시간 여행\n우리나라 최초의 시내버스인 부영 버스도 체험할 수 있어요.",
+          "courseNoList":[24],
+          "category":[24],
+          "placeVideoList":[
+            {
+              "videoNo":320,
+              "courseNoList":[24],
+              "category":[24],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/4_museum/museum3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/9597638e-1d2d-437c-acc4-3d109cbe2cf8/museum3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":321,
+          "placeName":"동제미술관",
+          "placeContents":"아름다운 꽃길, 옹기종기 모여 있는 작품들\n미술작품 보며 커피 한 잔 하러 오세요.",
+          "videoContents":"아름다운 꽃길, 옹기종기 모여 있는 작품들\n미술작품 보며 커피 한 잔 하러 오세요.",
+          "courseNoList":[24],
+          "category":[24],
+          "placeVideoList":[
+            {
+              "videoNo":321,
+              "courseNoList":[24],
+              "category":[24],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/4_museum/museum4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/eb3eb5ab-1fb1-4572-ba99-52196190837a/museum4.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseNo":25,
+      "courseName":"페스티벌",
+      "courseTitle":"대구에 왔다면 꼭 가야하는\n페스티벌만 모았다!",
+      "courseContents":"신나는 노래도 듣고! 맛있는 음식도 먹고!\n대구에 왔다면 페스티벌도 가야죠!\n대구에서만 즐길 수 있는\n페스티벌 즐기러 한 번 가볼까요?",
+      "liveVideoPlace": [
+        {
+          "placeNo":322,
+          "placeName":"벡터DJ페스티벌",
+          "placeContents":"무대 길이 130m 압도적 규모, 세계 유명 DJ들 흥 120% 충전\n대구 최초 EDM 파티 초대형 음악사운드를 만날 수 있어요.",
+          "videoContents":"무대 길이 130m 압도적 규모, 세계 유명 DJ들 흥 120% 충전\n대구 최초 EDM 파티 초대형 음악사운드를 만날 수 있어요.",
+          "courseNoList":[25],
+          "category":[25],
+          "placeVideoList":[
+            {
+              "videoNo":322,
+              "courseNoList":[25],
+              "category":[25],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/5_festival/festival1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/fe62888e-9516-4c21-a6a6-3256bf58e953/festival1.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":323,
+          "placeName":"치맥페스티벌",
+          "placeContents":"하늘이 내린 최고의 조합, 치킨과 맥주!\n시원한 얼음물에 발을 담그고 치맥을 즐기러 가보자!",
+          "videoContents":"하늘이 내린 최고의 조합, 치킨과 맥주!\n시원한 얼음물에 발을 담그고 치맥을 즐기러 가보자!",
+          "courseNoList":[25],
+          "category":[25],
+          "placeVideoList":[
+            {
+              "videoNo":323,
+              "courseNoList":[25],
+              "category":[25],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/5_festival/festival2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/ee983ec8-e159-45aa-a300-d98f68c049dc/festival2.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":324,
+          "placeName":"파워풀대구페스티벌",
+          "placeContents":"문화예술과 시민이 함께 만드는 파워풀대구페스티벌\n남녀노소 누구나 직접 참여하고 즐길 수 있는 시민 문화제",
+          "videoContents":"문화예술과 시민이 함께 만드는 파워풀대구페스티벌\n남녀노소 누구나 직접 참여하고 즐길 수 있는 시민 문화제",
+          "courseNoList":[25],
+          "category":[25],
+          "placeVideoList":[
+            {
+              "videoNo":324,
+              "courseNoList":[25],
+              "category":[25],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/5_festival/festival3.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/5b13c245-cf5f-46cd-9af2-38de22a44549/festival3.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        },
+        {
+          "placeNo":325,
+          "placeName":"대구국제뮤지컬페스티벌",
+          "placeContents":"전세계 뮤지컬이 주목하는 아시아 최초의 국제뮤지컬페스티벌\n대한민국 대구를 대표하는 문화산업브랜드",
+          "videoContents":"전세계 뮤지컬이 주목하는 아시아 최초의 국제뮤지컬페스티벌\n대한민국 대구를 대표하는 문화산업브랜드",
+          "courseNoList":[25],
+          "category":[25],
+          "placeVideoList":[
+            {
+              "videoNo":325,
+              "courseNoList":[25],
+              "category":[25],
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/5_festival/festival4.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f458b984-4dd1-4532-a7bb-1cb1727c81ee/festival4.ism/manifest(format=m3u8-cmaf)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
