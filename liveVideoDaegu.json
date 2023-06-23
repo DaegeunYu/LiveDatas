@@ -425,8 +425,8 @@
           "videoNo":326,
           "courseNoList":[0],
           "category":[26],
-          "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/5_festival/festival4.png",
-          "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/f458b984-4dd1-4532-a7bb-1cb1727c81ee/festival4.ism/manifest(format=m3u8-cmaf)"
+          "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/apsanjeonmangdae.jpg",
+          "videoPath":"https://0678e6374a55.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.975933023183.channel.r9VlK5FxxNsQ.m3u8"
         }
       ]
     }
