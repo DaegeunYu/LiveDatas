@@ -1458,13 +1458,13 @@
           "placeName":"차귀도",
           "placeContents":"제주도에 있는 무인도 라는 별명을 가지고 있는 곳\n깨끗한 물과 조우할 수 있어요.",
           "videoContents":"제주도에 있는 무인도 라는 별명을 가지고 있는 곳\n깨끗한 물과 조우할 수 있어요.",
-          "courseNoList":[3],
+          "courseNoList":[3, 9],
           "category":[11, 12],
 		  "locationNo":21,
           "placeVideoList":[
             {
               "videoNo":63,
-              "courseNoList":[3],
+              "courseNoList":[3, 9],
               "category":[12],
               "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/68.png",
               "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/d1cf31f4-f05c-476d-9ef9-6c1196b4f16a/13_chagwido.ism/manifest(format=m3u8-cmaf)"
@@ -2254,7 +2254,7 @@
           "placeName":"1100도로",
           "placeContents":"끝없이 이어지는 산길을 따라 달리면서\n상쾌함을 느낄 수 있는 대표적인 드라이브 코스",
           "videoContents":"끝없이 이어지는 산길을 따라 달리면서\n상쾌함을 느낄 수 있는 대표적인 드라이브 코스",
-          "courseNoList":[5],
+          "courseNoList":[5, 9],
           "category":[13],
 		  "locationNo":2,
           "placeVideoList":[
@@ -2965,6 +2965,13 @@
           "category":[11, 12],
 		  "locationNo":3,
           "placeVideoList":[
+		    {
+			  "videoNo":63,
+			  "courseNoList":[3, 9],
+			  "category":[12],
+			  "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/68.png",
+			  "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/d1cf31f4-f05c-476d-9ef9-6c1196b4f16a/13_chagwido.ism/manifest(format=m3u8-cmaf)"
+			}
           ]
         },
 		{
@@ -3055,6 +3062,13 @@
           "category":[13],
 		  "locationNo":7,
           "placeVideoList":[
+			{
+			  "videoNo":142,
+			  "courseNoList":[5, 9],
+			  "category":[13],
+			  "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/18.png",
+			  "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a197da04-e28f-45c8-9f05-f394728db4a9/28_1100doro.ism/manifest(format=m3u8-cmaf)"
+			}
           ]
         },
 		{
@@ -3083,24 +3097,13 @@
           ]
         },
 		{
-          "placeNo":17,
-          "placeName":"중문색달해수욕장",
-          "placeContents":"서퍼들이 사랑하는 중문색달해주욕장,\n일몰이 선사하는 눈부신 아름다움이 있어요.",
-          "videoContents":"다양한 파도를 만날 수 있는 중문색달해수욕장\n뜨거운 여름을 시원하게 적시기 좋은 장소",
-          "courseNoList":[2, 3, 9],
-          "category":[11, 12],
-		  "locationNo":9,
-          "placeVideoList":[
-          ]
-        },
-		{
           "placeNo":25,
           "placeName":"자구리해안",
           "placeContents":"이중섭 작가님이 제주에 와 오랜 시간을 보낸 장소\n슬프면서도 아름다운 특별한 곳",
           "videoContents":"이중섭 작가님이 제주에서 많은 시간을\n보낸 곳으로 알려진 슬프고 아름다운 장소",
           "courseNoList":[3, 9],
           "category":[12],
-		  "locationNo":10,
+		  "locationNo":9,
           "placeVideoList":[
             {
               "videoNo":61,
@@ -3118,7 +3121,7 @@
           "videoContents":"햇빛이 폭포의 물줄기에 닿으면 은하수처럼\n반짝이는 장관을 펼치는 비밀스런 공간",
           "courseNoList":[3, 9],
           "category":[15],
-		  "locationNo":11,
+		  "locationNo":10,
           "placeVideoList":[
             {
               "videoNo":62,
@@ -3136,7 +3139,7 @@
           "videoContents":"스노클링 초보자들이 가기 적절한 스팟!\n수천마리의 멸치 떼를 만날 수 있어요.",
           "courseNoList":[1, 3, 9],
           "category":[11, 12],
-		  "locationNo":12,
+		  "locationNo":11,
           "placeVideoList":[
             {
               "videoNo":34,
@@ -3154,7 +3157,7 @@
           "videoContents":"담수와 해수가 만나 깊은 웅덩이를 만들고\n주변 기암괴석과 소나무 숲이 그늘을 만들어줘요.",
           "courseNoList":[3, 9],
           "category":[11, 14, 15],
-		  "locationNo":13,
+		  "locationNo":12,
           "placeVideoList":[
             {
               "videoNo":56,
@@ -3172,7 +3175,7 @@
           "videoContents":"소복하게 눈이 쌓인 제주의 중산간 도로\n한가로이 먹이를 먹는 말과 드넓은 초원이 있는 곳",
           "courseNoList":[8, 9],
           "category":[13],
-		  "locationNo":13,
+		  "locationNo":12,
           "placeVideoList":[
             {
               "videoNo":173,
@@ -3190,7 +3193,7 @@
           "videoContents":"마그마가 물 속에서 올라와 만들어진 화산채\n일출이 장관이라 이러한 이름이 붙었어요.",
           "courseNoList":[4, 9, 10],
           "category":[11, 12, 14],
-		  "locationNo":14,
+		  "locationNo":13,
           "placeVideoList":[
             {
               "videoNo":108,
@@ -3215,7 +3218,7 @@
           "videoContents":"계절 마다 다른 모습을 모여주는 용눈이오름\n세 개의 화산구가 부드럽게 이어져있어요.",
           "courseNoList":[4, 9],
           "category":[13],
-		  "locationNo":15,
+		  "locationNo":14,
           "placeVideoList":[
             {
               "videoNo":111,
@@ -3240,7 +3243,7 @@
           "videoContents":"말굽 모양의 화구를 가지고 있는 당오름은\n이름처럼 주변에 당이 존재합니다.",
           "courseNoList":[4, 9],
           "category":[13],
-		  "locationNo":16,
+		  "locationNo":15,
           "placeVideoList":[
             {
               "videoNo":99,
@@ -3258,7 +3261,7 @@
           "videoContents":"철썩이는 파도에 발을 담그면\n짜릿한 시원함이 머리까지 올라와요.",
           "courseNoList":[1, 2, 3, 5, 9],
           "category":[12],
-		  "locationNo":17,
+		  "locationNo":16,
           "placeVideoList":[
             {
               "videoNo":19,
@@ -3276,7 +3279,7 @@
           "videoContents":"하얀 모래로 잔잔하게 흘러오는\n흰색 파도와 세차게 돌아가는 풍차가 있는 곳",
           "courseNoList":[1, 3, 9],
           "category":[11, 12],
-		  "locationNo":18,
+		  "locationNo":17,
           "placeVideoList":[
             {
               "videoNo":16,
@@ -3301,7 +3304,7 @@
           "videoContents":"부드러운 해안 모래에서 이어지는 현무암 바위의\n조합이 매력적인 곳",
           "courseNoList":[1, 2, 3, 7, 9],
           "category":[11, 12, 14],
-		  "locationNo":19,
+		  "locationNo":18,
           "placeVideoList":[
             {
               "videoNo":11,
@@ -3319,7 +3322,7 @@
           "videoContents":"참된 나를 찾아 떠나는 곳, 관음사\n한국 불교의 역사와 문화가 있는 장소랍니다.",
           "courseNoList":[4, 9],
           "category":[11, 13, 15],
-		  "locationNo":20,
+		  "locationNo":19,
           "placeVideoList":[
             {
               "videoNo":116,
@@ -3337,7 +3340,7 @@
           "videoContents":"넓은 메밀 꽃밭이 가득한 아라 메밀밭\n푸른 색의 하늘과 땅이 매력적이네요.",
           "courseNoList":[9, 10],
           "category":[14],
-		  "locationNo":21,
+		  "locationNo":20,
           "placeVideoList":[
             {
               "videoNo":182,
