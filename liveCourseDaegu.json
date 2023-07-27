@@ -13,6 +13,7 @@
           "videoContents":"팔공산과 대구 시내 전경이 한눈에\n전망대, 소원의 언덕, 사랑의 터널 등의 즐길거리가 있어요.",
           "courseNoList":[21],
           "category":[21],
+		  "locationNo":1,
           "placeVideoList":[
             {
               "videoNo":301,
@@ -30,6 +31,7 @@
           "videoContents":"쓰레기 매립장이 청정 수목원으로 재탄생!\n전국 최초의 도심형 수목원",
           "courseNoList":[21],
           "category":[21],
+		  "locationNo":2,
           "placeVideoList":[
             {
               "videoNo":302,
@@ -47,6 +49,7 @@
           "videoContents":"물과 자연과 문화가 오롯이 담긴 건축예술품\n최고의 힐링 장소는 디아크 3층 전망대",
           "courseNoList":[21],
           "category":[21],
+		  "locationNo":3,
           "placeVideoList":[
             {
               "videoNo":303,
@@ -64,6 +67,7 @@
           "videoContents":"로맨틱하고 웅장한 메타세쿼이아 길\n좌우로 키 큰 나무들이 줄 서 있는 장관",
           "courseNoList":[21],
           "category":[21],
+		  "locationNo":4,
           "placeVideoList":[
             {
               "videoNo":304,
@@ -81,6 +85,7 @@
           "videoContents":"가을이면 살랑살랑 억새로 물들어 있는\n광활한 습지를 만나 볼 수 있어요.",
           "courseNoList":[21],
           "category":[21],
+		  "locationNo":5,
           "placeVideoList":[
             {
               "videoNo":305,
@@ -98,6 +103,7 @@
           "videoContents":"문화, 교양, 체육시설이 있는 도시근린공원\n시민건강증진과 시민문화의 중심!",
           "courseNoList":[21],
           "category":[21],
+		  "locationNo":6,
           "placeVideoList":[
             {
               "videoNo":306,
@@ -115,6 +121,7 @@
           "videoContents":"장중한 산세, 30만 평의 진달래꽃\n자연휴양림에서 삼림욕과 휴식도 즐길 수 있어요.",
           "courseNoList":[21],
           "category":[21],
+		  "locationNo":7,
           "placeVideoList":[
             {
               "videoNo":307,
@@ -132,6 +139,7 @@
           "videoContents":"수성못이 한 눈에 보이는 호텔수성\n수영도 하고 호캉스도 즐겨보아요!",
           "courseNoList":[21],
           "category":[21],
+		  "locationNo":8,
           "placeVideoList":[
             {
               "videoNo":308,
@@ -157,13 +165,14 @@
           "videoContents":"도심 속에 우뚝 솟은 대구의 랜드마크\n다보탑 형태의 팔각형 탑신을 자랑하며 한국의 전통 건축미 재현",
           "courseNoList":[22],
           "category":[22],
+		  "locationNo":1,
           "placeVideoList":[
             {
               "videoNo":309,
               "courseNoList":[22],
               "category":[22],
-              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/2_drone/drone1.png",
-              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a377a628-96e0-43da-b0ed-be25c1f0cd33/drone1.ism/manifest(format=m3u8-cmaf)"
+              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/2_drone/drone2.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3a820d96-68d7-4d05-9b1d-ca0d8452b540/drone2.ism/manifest(format=m3u8-cmaf)"
             }
           ]
         },
@@ -174,13 +183,14 @@
           "videoContents":"봄이 다가오면 캠핑하러 가야죠.\n힐링도하고 추억도 쌓으로 가요!",
           "courseNoList":[22],
           "category":[22],
+		  "locationNo":2,
           "placeVideoList":[
             {
               "videoNo":310,
               "courseNoList":[22],
               "category":[22],
-              "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/2_drone/drone2.png",
-              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/3a820d96-68d7-4d05-9b1d-ca0d8452b540/drone2.ism/manifest(format=m3u8-cmaf)"
+			  "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/daegu/2_drone/drone1.png",
+              "videoPath":"https://aspiamediasvc-koct1.streaming.media.azure.net/a377a628-96e0-43da-b0ed-be25c1f0cd33/drone1.ism/manifest(format=m3u8-cmaf)"
             }
           ]
         },
@@ -191,6 +201,7 @@
           "videoContents":"도심 속 걷기 좋은 산책로\n연못도 보고 산책도 하고 일석이조!",
           "courseNoList":[22],
           "category":[22],
+		  "locationNo":3,
           "placeVideoList":[
             {
               "videoNo":311,
@@ -216,6 +227,7 @@
           "videoContents":"200여종의 해양생물, 동물들과 교감할 수 있는 곳!\n생생한 해양 생태계로 초대합니다.",
           "courseNoList":[23],
           "category":[23],
+		  "locationNo":1,
           "placeVideoList":[
             {
               "videoNo":312,
@@ -233,6 +245,7 @@
           "videoContents":"쓰레기 매립장이 청정 수목원으로 재탄생!\n전국 최초의 도심형 수목원",
           "courseNoList":[23],
           "category":[23],
+		  "locationNo":2,
           "placeVideoList":[
             {
               "videoNo":313,
@@ -250,6 +263,7 @@
           "videoContents":"아름드리 은행나무와 아름다운 토담을 품은 고즈넉한 서원\n임진왜란 이후 다시 태어난 서원을 살펴보아요.",
           "courseNoList":[23],
           "category":[23],
+		  "locationNo":3,
           "placeVideoList":[
             {
               "videoNo":314,
@@ -267,6 +281,7 @@
           "videoContents":"팔공산과 대구 시내 전경이 한눈에\n전망대, 소원의 언덕, 사랑의 터널 등의 즐길거리가 있어요.",
           "courseNoList":[23],
           "category":[23],
+		  "locationNo":4,
           "placeVideoList":[
             {
               "videoNo":315,
@@ -284,6 +299,7 @@
           "videoContents":"온갖 나무와 꽃이 어우러진 휴식공간\n특히 음악과 율동에 맞춰 물을 쏘아 올리는 음악분수가 멋져요.",
           "courseNoList":[23],
           "category":[23],
+		  "locationNo":5,
           "placeVideoList":[
             {
               "videoNo":316,
@@ -309,6 +325,7 @@
           "videoContents":"전시공간과 자연풍경이 고정되지 않고 율동하고\n근현대미술과 다양한 교육프로그램까지 만날 수 있어요.",
           "courseNoList":[24],
           "category":[24],
+		  "locationNo":1,
           "placeVideoList":[
             {
               "videoNo":318,
@@ -326,6 +343,7 @@
           "videoContents":"예술을 담다, 달성을 품다\n야외에서 만나는 미술작품",
           "courseNoList":[24],
           "category":[24],
+		  "locationNo":2,
           "placeVideoList":[
             {
               "videoNo":319,
@@ -343,6 +361,7 @@
           "videoContents":"타임머신 없이 떠나는 대구 근대 시간 여행\n우리나라 최초의 시내버스인 부영 버스도 체험할 수 있어요.",
           "courseNoList":[24],
           "category":[24],
+		  "locationNo":3,
           "placeVideoList":[
             {
               "videoNo":320,
@@ -360,6 +379,7 @@
           "videoContents":"아름다운 꽃길, 옹기종기 모여 있는 작품들\n미술작품 보며 커피 한 잔 하러 오세요.",
           "courseNoList":[24],
           "category":[24],
+		  "locationNo":4,
           "placeVideoList":[
             {
               "videoNo":321,
@@ -385,6 +405,7 @@
           "videoContents":"무대 길이 130m 압도적 규모, 세계 유명 DJ들 흥 120% 충전\n대구 최초 EDM 파티 초대형 음악사운드를 만날 수 있어요.",
           "courseNoList":[25],
           "category":[25],
+		  "locationNo":1,
           "placeVideoList":[
             {
               "videoNo":322,
@@ -402,6 +423,7 @@
           "videoContents":"하늘이 내린 최고의 조합, 치킨과 맥주!\n시원한 얼음물에 발을 담그고 치맥을 즐기러 가보자!",
           "courseNoList":[25],
           "category":[25],
+		  "locationNo":2,
           "placeVideoList":[
             {
               "videoNo":323,
@@ -419,6 +441,7 @@
           "videoContents":"문화예술과 시민이 함께 만드는 파워풀대구페스티벌\n남녀노소 누구나 직접 참여하고 즐길 수 있는 시민 문화제",
           "courseNoList":[25],
           "category":[25],
+		  "locationNo":3,
           "placeVideoList":[
             {
               "videoNo":324,
@@ -436,6 +459,7 @@
           "videoContents":"전세계 뮤지컬이 주목하는 아시아 최초의 국제뮤지컬페스티벌\n대한민국 대구를 대표하는 문화산업브랜드",
           "courseNoList":[25],
           "category":[25],
+		  "locationNo":4,
           "placeVideoList":[
             {
               "videoNo":325,
