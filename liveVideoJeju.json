@@ -272,13 +272,6 @@
           "category":[11, 12],
           "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/75.png",
           "videoPath":"http://59.8.86.15:1935/live/55.stream/playlist.m3u8"
-        },
-        {
-          "videoNo":30,
-          "courseNoList":[1],
-          "category":[11, 12],
-          "defaultThumbnail":"https://aspiamediastg.blob.core.windows.net/video-thumbnail/livetab/jeju/0_ext/76.png",
-          "videoPath":"https://www.youtube.com/embed/foDtkjUT55U?controls=0"
         }
       ]
     },
